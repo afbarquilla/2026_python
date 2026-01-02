@@ -23,7 +23,7 @@ def arbol_navidad(altura=10):
     lineas.append("")
     lineas.append("🎄  ¡Feliz Navidad y feliz año 2026!  🎄")
     lineas.append("Que tu código compile a la primera 😄")
-    lineas.append("02/01/2026")
+    lineas.append("prueba")
     return "\n".join(lineas)
 
 
@@ -35,6 +35,7 @@ def hello_tree():
 
 
 if __name__ == "__main__":
-    # Importante: escuchar en 0.0.0.0 para que Coolify lo pueda exponer
+    # Cambia el mensaje de retorno de tu ruta principal para confirmar el despliegue
+    # Ejemplo: return "Hello World - Webhook Funcionando!"
     app.run(host="0.0.0.0", port=8000)
 

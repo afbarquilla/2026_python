@@ -1,12 +1,11 @@
 services:
-  hello-world-python:
+  web:
     build: .
     container_name: python-app-git
     restart: always
-    # Limitamos RAM para que conviva con OpenEdX y WordPress
+    ports:
+      - "8001:8000"
     deploy:
       resources:
         limits:
-          memory: 256M
-    ports:
-      - "8001:8000" # Acceso Web
+          memory: 256M # Esto evita que el sistema mate a Portainer al actualizar
