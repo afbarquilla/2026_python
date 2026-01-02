@@ -9,4 +9,4 @@ services:
         limits:
           memory: 256M
     ports:
-      - "8082:8000" # Acceso Web
+      - "8001:8000" # Acceso Web
