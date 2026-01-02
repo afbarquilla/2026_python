@@ -23,7 +23,7 @@ def arbol_navidad(altura=10):
     lineas.append("")
     lineas.append("🎄  ¡Feliz Navidad y feliz año 2026!  🎄")
     lineas.append("Que tu código compile a la primera 😄")
-    lineas.append("prueba")
+    lineas.append("prueba2")
     return "\n".join(lineas)
 
 
