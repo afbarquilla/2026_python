@@ -2,6 +2,9 @@ from flask import Flask, render_template_string
 
 app = Flask(__name__)
 
+# Esto le dice a Flask que confíe en Caddy
+app.wsgi_app = ProxyFix(app.wsgi_app, x_for=1, x_proto=1, x_host=1, x_port=1)
+
 # HTML simple para el menú de inicio
 INDEX_HTML = """
 <!DOCTYPE html>
