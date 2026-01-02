@@ -1,41 +1,42 @@
-from flask import Flask, Response
+from flask import Flask, render_template_string
 
 app = Flask(__name__)
 
+# HTML simple para el menú de inicio
+INDEX_HTML = """
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mi Proyecto Python 2026</title>
+</head>
+<body>
+    <h1>Bienvenido a mi Servidor Python</h1>
+    <p>Selecciona una aplicación:</p>
+    <ul>
+        <li><a href="/navidad">🎄 Ver Árbol de Navidad</a></li>
+        <li><a href="/estado">📊 Estado del Servidor</a></li>
+    </ul>
+    <hr>
+    <p>Desplegado automáticamente vía Portainer</p>
+</body>
+</html>
+"""
 
-def arbol_navidad(altura=10):
-    lineas = []
+@app.route("/")
+def index():
+    return render_template_string(INDEX_HTML)
 
-    # Parte frondosa del árbol
-    for i in range(altura):
-        espacios = " " * (altura - i - 1)
-        estrellas = "*" * (2 * i + 1)
-        lineas.append(espacios + estrellas)
+# Importamos las funciones de otros archivos
+from navidad import obtener_arbol
 
-    # Tronco
-    tronco_altura = altura // 3
-    tronco_ancho = altura // 3 if altura // 3 % 2 == 1 else altura // 3 + 1
-    espacios_tronco = " " * (altura - tronco_ancho // 2 - 1)
-    for _ in range(tronco_altura):
-        lineas.append(espacios_tronco + "|" * tronco_ancho)
+@app.route("/navidad")
+def pagina_navidad():
+    return obtener_arbol()
 
-    # Mensaje de felicitación
-    lineas.append("")
-    lineas.append("🎄  ¡Feliz Navidad y feliz año 2026!  🎄")
-    lineas.append("Que tu código compile a la primera 😄")
-    lineas.append("prueba2")
-    return "\n".join(lineas)
-
-
-@app.get("/")
-def hello_tree():
-    tree_text = arbol_navidad(altura=12)
-    # Devolvemos texto plano para que se vea bien en el navegador
-    return Response(tree_text, mimetype="text/plain")
-
+@app.route("/estado")
+def estado():
+    return "Servidor funcionando en el puerto 8000 (Expuesto en 8001)"
 
 if __name__ == "__main__":
-    # Cambia el mensaje de retorno de tu ruta principal para confirmar el despliegue
-    # Ejemplo: return "Hello World - Webhook Funcionando!"
     app.run(host="0.0.0.0", port=8000)
 
