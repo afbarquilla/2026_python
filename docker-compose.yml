@@ -1,0 +1,13 @@
+services:
+  hello-world-python:
+    build: .
+    container_name: python-app-git
+    restart: always
+    # Limitamos RAM para que conviva con OpenEdX y WordPress
+    deploy:
+      resources:
+        limits:
+          memory: 256M
+    ports:
+      - "8082:8000" # Acceso Web
+      - "84:84"     # El puerto 84 que solicitaste recordar
