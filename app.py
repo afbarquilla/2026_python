@@ -1,40 +1,20 @@
+import dash
+from dash import html
 from flask import Flask, render_template_string
-# Importamos la función que inicializa el dashboard desde la carpeta running
-from running.dashboard import init_dashboard 
 
-app = Flask(__name__)
+# 1. Configuración del servidor Flask base
+server = Flask(__name__)
 
-# Inicializamos el dashboard de running pasándole este servidor Flask
-init_dashboard(app)
-
-# Tu menú de inicio ahora con la ruta organizada
-INDEX_HTML = """
-<!DOCTYPE html>
-<html>
-<head><title>Mi Proyecto Python 2026</title></head>
-<body>
-    <h1>Bienvenido a mi Servidor Python</h1>
-    <p>Selecciona una aplicación:</p>
-    <ul>
-        <li><a href="/navidad">🎄 Ver Árbol de Navidad</a></li>
-        <li><a href="/running/">🏃 Dashboard Running (Organizado en carpeta)</a></li>
-        <li><a href="/estado">📊 Estado del Servidor</a></li>
-    </ul>
-    <hr>
-    <p>Desplegado automáticamente vía Portainer</p>
-</body>
-</html>
-"""
-
-
-# Al inicializar la app de Dash
+# 2. Configuración de Dash (La Web-App Móvil)
+# Le pasamos el servidor Flask para que convivan en el mismo puerto 8000
 app = dash.Dash(
     __name__,
-    meta_tags=[{"name": "viewport", "content": "width=device-width, initial-scale=1"}],
-    external_scripts=['https://cdnjs.cloudflare.com/ajax/libs/manifest.json/1.0.0/manifest.json']
+    server=server,
+    url_base_pathname='/running/',  # Dash vivirá en /running/
+    meta_tags=[{"name": "viewport", "content": "width=device-width, initial-scale=1"}]
 )
 
-# Añadir esto al layout para el soporte de Web-App
+# 3. Soporte para instalar como App Móvil (PWA)
 app.index_string = '''
 <!DOCTYPE html>
 <html>
@@ -45,6 +25,7 @@ app.index_string = '''
         {%css%}
         <link rel="manifest" href="/assets/manifest.json">
         <meta name="apple-mobile-web-app-capable" content="yes">
+        <meta name="mobile-web-app-capable" content="yes">
     </head>
     <body>
         {%app_entry%}
@@ -57,32 +38,44 @@ app.index_string = '''
 </html>
 '''
 
+# 4. Diseño de la App de Dash (Lo que verás en el móvil)
+app.layout = html.Div([
+    html.H1("Dashboard Running"),
+    html.P("Preparado para las series de mañana (6x400m)"),
+    html.A("Volver al Inicio", href="/")
+], style={'padding': '20px', 'textAlign': 'center'})
 
+# 5. Rutas de Flask (Menú de inicio)
+INDEX_HTML = """
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Papel Secante Python</title>
+</head>
+<body>
+    <h1>Bienvenido a mi Servidor</h1>
+    <ul>
+        <li><a href="/navidad">🎄 Árbol de Navidad</a></li>
+        <li><a href="/running/">🏃 Dashboard Running (App Móvil)</a></li>
+        <li><a href="/estado">📊 Estado del Servidor</a></li>
+    </ul>
+</body>
+</html>
+"""
 
-
-
-
-
-
-
-@app.route("/")
+@server.route("/")
 def index():
     return render_template_string(INDEX_HTML)
 
-# Mantenemos la lógica de navidad y estado
-try:
-    from navidad import obtener_arbol
-except ImportError:
-    def obtener_arbol(): return "Árbol no encontrado"
-
-@app.route("/navidad")
+@server.route("/navidad")
 def pagina_navidad():
-    return obtener_arbol()
+    return "🎄 Árbol de Navidad (Lógica cargada)"
 
-@app.route("/estado")
+@server.route("/estado")
 def estado():
-    return "Servidor funcionando (Lógica de running movida a su propia carpeta)"
+    return "Servidor funcionando en el puerto 8000"
 
 if __name__ == "__main__":
-    # Seguimos usando el puerto 8000 (mapeado al 8001 en tu VPS)
-    app.run(host="0.0.0.0", port=8000)
+    # Puerto 8000 interno (mapeado al 8001 en el VPS)
+    server.run(host="0.0.0.0", port=8000)
