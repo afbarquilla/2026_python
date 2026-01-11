@@ -26,6 +26,45 @@ INDEX_HTML = """
 </html>
 """
 
+
+# Al inicializar la app de Dash
+app = dash.Dash(
+    __name__,
+    meta_tags=[{"name": "viewport", "content": "width=device-width, initial-scale=1"}],
+    external_scripts=['https://cdnjs.cloudflare.com/ajax/libs/manifest.json/1.0.0/manifest.json']
+)
+
+# Añadir esto al layout para el soporte de Web-App
+app.index_string = '''
+<!DOCTYPE html>
+<html>
+    <head>
+        {%metas%}
+        <title>Running Sub-23</title>
+        {%favicon%}
+        {%css%}
+        <link rel="manifest" href="/assets/manifest.json">
+        <meta name="apple-mobile-web-app-capable" content="yes">
+    </head>
+    <body>
+        {%app_entry%}
+        <footer>
+            {%config%}
+            {%scripts%}
+            {%renderer%}
+        </footer>
+    </body>
+</html>
+'''
+
+
+
+
+
+
+
+
+
 @app.route("/")
 def index():
     return render_template_string(INDEX_HTML)

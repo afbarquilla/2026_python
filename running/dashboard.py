@@ -75,7 +75,8 @@ def init_dashboard(server):
                 fig = px.scatter(df, x="Día", y="Ritmo (min/km)", color="Tipo", size="Distancia (km)", title="Evolución 5K")
                 fig.update_yaxes(autorange="reversed")
                 fig.update_xaxes(type='category')
-                fig.add_hline(y=4.6, line_dash="dash", line_color="red")
+                # Dentro de la función donde creas la gráfica en dashboard.py
+                fig.add_hline(y=4.6, line_dash="dash", line_color="red", annotation_text="Objetivo Sub-23 (4:36)")
             
             return html.Div([
                 html.H2("Visualización de Progreso"),
