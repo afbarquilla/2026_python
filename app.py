@@ -1,20 +1,23 @@
 from flask import Flask, render_template_string
+# Importamos la función que inicializa el dashboard desde la carpeta running
+from running.dashboard import init_dashboard 
 
 app = Flask(__name__)
 
+# Inicializamos el dashboard de running pasándole este servidor Flask
+init_dashboard(app)
 
-# HTML simple para el menú de inicio
+# Tu menú de inicio ahora con la ruta organizada
 INDEX_HTML = """
 <!DOCTYPE html>
 <html>
-<head>
-    <title>Mi Proyecto Python 2026</title>
-</head>
+<head><title>Mi Proyecto Python 2026</title></head>
 <body>
     <h1>Bienvenido a mi Servidor Python</h1>
     <p>Selecciona una aplicación:</p>
     <ul>
         <li><a href="/navidad">🎄 Ver Árbol de Navidad</a></li>
+        <li><a href="/running/">🏃 Dashboard Running (Organizado en carpeta)</a></li>
         <li><a href="/estado">📊 Estado del Servidor</a></li>
     </ul>
     <hr>
@@ -27,8 +30,11 @@ INDEX_HTML = """
 def index():
     return render_template_string(INDEX_HTML)
 
-# Importamos las funciones de otros archivos
-from navidad import obtener_arbol
+# Mantenemos la lógica de navidad y estado
+try:
+    from navidad import obtener_arbol
+except ImportError:
+    def obtener_arbol(): return "Árbol no encontrado"
 
 @app.route("/navidad")
 def pagina_navidad():
@@ -36,8 +42,8 @@ def pagina_navidad():
 
 @app.route("/estado")
 def estado():
-    return "Servidor funcionando en el puerto 8000 (Expuesto en 8001)"
+    return "Servidor funcionando (Lógica de running movida a su propia carpeta)"
 
 if __name__ == "__main__":
+    # Seguimos usando el puerto 8000 (mapeado al 8001 en tu VPS)
     app.run(host="0.0.0.0", port=8000)
-
