@@ -1,0 +1,629 @@
+consejeria;unidad;periodo_control;media_empleados;tipo_fila;causa;computable_indice;situaciones_ausencia;jornadas_ausencia;indica1;indica2;valor_resumen;pagina;pdf_origen
+Consejería de Hacienda y Administración Pública;;01/01/2025 AL 31/12/2025;702;causa;Asistir a consulta médica o asistencia sanitaria de carácter personal;True;1395.0;1337.0;1.9;10.68;;1.0;Indice_absentismo01_01_2025-31_12_2025 (10).pdf
+Consejería de Hacienda y Administración Pública;;01/01/2025 AL 31/12/2025;702;causa;Enfermedad o accidente con incapacidad temporal;True;190.0;8315.0;11.84;66.43;;1.0;Indice_absentismo01_01_2025-31_12_2025 (10).pdf
+Consejería de Hacienda y Administración Pública;;01/01/2025 AL 31/12/2025;702;causa;Enfermedad o accidente sin incapacidad temporal;True;265.0;381.0;0.54;3.04;;1.0;Indice_absentismo01_01_2025-31_12_2025 (10).pdf
+Consejería de Hacienda y Administración Pública;;01/01/2025 AL 31/12/2025;702;causa;"Accidente o enfermedad grave, hospitalización o intervención
+quirúrgica ambulatoria de un familiar";True;470.0;815.0;1.16;6.51;;1.0;Indice_absentismo01_01_2025-31_12_2025 (10).pdf
+Consejería de Hacienda y Administración Pública;;01/01/2025 AL 31/12/2025;702;causa;Acompañar a familiar a consulta médica o asistencia sanitaria;True;560.0;541.0;0.77;4.32;;1.0;Indice_absentismo01_01_2025-31_12_2025 (10).pdf
+Consejería de Hacienda y Administración Pública;;01/01/2025 AL 31/12/2025;702;causa;"Adopción, guarda con fines de adopción o acogimiento, tanto temporal
+como permanente";True;0.0;0.0;0.0;0.0;;1.0;Indice_absentismo01_01_2025-31_12_2025 (10).pdf
+Consejería de Hacienda y Administración Pública;;01/01/2025 AL 31/12/2025;702;causa;"Asistir a reuniones de coordinación o acompañamiento a hijos o hijas
+con discapacidad";True;0.0;0.0;0.0;0.0;;1.0;Indice_absentismo01_01_2025-31_12_2025 (10).pdf
+Consejería de Hacienda y Administración Pública;;01/01/2025 AL 31/12/2025;702;causa;Asuntos particulares fraccionados;False;0.0;0.0;0.0;0.0;;1.0;Indice_absentismo01_01_2025-31_12_2025 (10).pdf
+Consejería de Hacienda y Administración Pública;;01/01/2025 AL 31/12/2025;702;causa;Asuntos particulares fraccionados del año anterior;False;0.0;0.0;0.0;0.0;;1.0;Indice_absentismo01_01_2025-31_12_2025 (10).pdf
+Consejería de Hacienda y Administración Pública;;01/01/2025 AL 31/12/2025;702;causa;Asuntos Particulares 2024;False;1179.0;2228.0;3.17;17.8;;1.0;Indice_absentismo01_01_2025-31_12_2025 (10).pdf
+Consejería de Hacienda y Administración Pública;;01/01/2025 AL 31/12/2025;702;causa;Asuntos Particulares 2025;False;3140.0;4621.0;6.58;36.92;;1.0;Indice_absentismo01_01_2025-31_12_2025 (10).pdf
+Consejería de Hacienda y Administración Pública;;01/01/2025 AL 31/12/2025;702;causa;Asuntos propios sin retribución;True;2.0;18.0;0.03;0.14;;1.0;Indice_absentismo01_01_2025-31_12_2025 (10).pdf
+Consejería de Hacienda y Administración Pública;;01/01/2025 AL 31/12/2025;702;causa;Ausencia no justificable por permiso.;False;0.0;0.0;0.0;0.0;;1.0;Indice_absentismo01_01_2025-31_12_2025 (10).pdf
+Consejería de Hacienda y Administración Pública;;01/01/2025 AL 31/12/2025;702;causa;Ausencia por emergencia familiar;True;5.0;4.0;0.01;0.03;;1.0;Indice_absentismo01_01_2025-31_12_2025 (10).pdf
+Consejería de Hacienda y Administración Pública;;01/01/2025 AL 31/12/2025;702;causa;"Colaboración en Programas de Cooperación y Ayuda Humanitaria, y
+en Programas y Proyectos de Ayuda y Cooperación al Desarrollo";True;0.0;0.0;0.0;0.0;;1.0;Indice_absentismo01_01_2025-31_12_2025 (10).pdf
+Consejería de Hacienda y Administración Pública;;01/01/2025 AL 31/12/2025;702;causa;Comisión de servicios;False;735.0;1140.0;1.62;9.11;;2.0;Indice_absentismo01_01_2025-31_12_2025 (10).pdf
+Consejería de Hacienda y Administración Pública;;01/01/2025 AL 31/12/2025;702;causa;Compensación horaria por servicios extraordinarios;False;0.0;0.0;0.0;0.0;;2.0;Indice_absentismo01_01_2025-31_12_2025 (10).pdf
+Consejería de Hacienda y Administración Pública;;01/01/2025 AL 31/12/2025;702;causa;"Cuidado de hijo o hija menor afectado por cáncer u otra enfermedad
+grave";True;0.0;0.0;0.0;0.0;;2.0;Indice_absentismo01_01_2025-31_12_2025 (10).pdf
+Consejería de Hacienda y Administración Pública;;01/01/2025 AL 31/12/2025;702;causa;"Cuidado de un familiar de primer grado, cónyuge o pareja de hecho
+por enfermedad muy grave";True;9.0;27.0;0.04;0.22;;2.0;Indice_absentismo01_01_2025-31_12_2025 (10).pdf
+Consejería de Hacienda y Administración Pública;;01/01/2025 AL 31/12/2025;702;causa;"Cumplir un deber inexcusable y deberes relacionados con la vida
+familiar y laboral";True;103.0;98.0;0.14;0.78;;2.0;Indice_absentismo01_01_2025-31_12_2025 (10).pdf
+Consejería de Hacienda y Administración Pública;;01/01/2025 AL 31/12/2025;702;causa;"Desplazamiento previo en los casos de adopción o acogimiento
+internacional";True;0.0;0.0;0.0;0.0;;2.0;Indice_absentismo01_01_2025-31_12_2025 (10).pdf
+Consejería de Hacienda y Administración Pública;;01/01/2025 AL 31/12/2025;702;causa;"Exámenes prenatales, técnicas de preparación al parto y sesiones e
+informes en los casos de adopción, guarda con fines de adopción o
+acogimiento";True;6.0;6.0;0.01;0.05;;2.0;Indice_absentismo01_01_2025-31_12_2025 (10).pdf
+Consejería de Hacienda y Administración Pública;;01/01/2025 AL 31/12/2025;702;causa;Fallecimiento de un familiar;True;67.0;188.0;0.27;1.5;;2.0;Indice_absentismo01_01_2025-31_12_2025 (10).pdf
+Consejería de Hacienda y Administración Pública;;01/01/2025 AL 31/12/2025;702;causa;Horas de Compensación 2024;False;4.0;4.0;0.01;0.03;;2.0;Indice_absentismo01_01_2025-31_12_2025 (10).pdf
+Consejería de Hacienda y Administración Pública;;01/01/2025 AL 31/12/2025;702;causa;Horas de Compensación 2025;False;89.0;97.0;0.14;0.78;;2.0;Indice_absentismo01_01_2025-31_12_2025 (10).pdf
+Consejería de Hacienda y Administración Pública;;01/01/2025 AL 31/12/2025;702;causa;Huelga legal;True;5.0;5.0;0.01;0.04;;2.0;Indice_absentismo01_01_2025-31_12_2025 (10).pdf
+Consejería de Hacienda y Administración Pública;;01/01/2025 AL 31/12/2025;702;causa;Lactancia acumulada;True;3.0;44.0;0.06;0.35;;2.0;Indice_absentismo01_01_2025-31_12_2025 (10).pdf
+Consejería de Hacienda y Administración Pública;;01/01/2025 AL 31/12/2025;702;causa;Lactancia (no acumulada);True;0.0;0.0;0.0;0.0;;2.0;Indice_absentismo01_01_2025-31_12_2025 (10).pdf
+Consejería de Hacienda y Administración Pública;;01/01/2025 AL 31/12/2025;702;causa;Matrimonio o pareja de hecho;True;2.0;22.0;0.03;0.18;;2.0;Indice_absentismo01_01_2025-31_12_2025 (10).pdf
+Consejería de Hacienda y Administración Pública;;01/01/2025 AL 31/12/2025;702;causa;"Nacimiento de hijos o hijas prematuros u hospitalizados a
+continuación del parto";True;0.0;0.0;0.0;0.0;;2.0;Indice_absentismo01_01_2025-31_12_2025 (10).pdf
+Consejería de Hacienda y Administración Pública;;01/01/2025 AL 31/12/2025;702;causa;Nacimiento para la madre biológica;True;8.0;322.0;0.46;2.57;;2.0;Indice_absentismo01_01_2025-31_12_2025 (10).pdf
+Consejería de Hacienda y Administración Pública;;01/01/2025 AL 31/12/2025;702;causa;Otras ausencias no contempladas;True;382.0;217.0;0.31;1.73;;2.0;Indice_absentismo01_01_2025-31_12_2025 (10).pdf
+Consejería de Hacienda y Administración Pública;;01/01/2025 AL 31/12/2025;702;causa;"Permiso parental para el cuidado de hijo, hija o menor acogido por
+tiempo superior a un año, hasta que el menor cumpla 8 años";True;5.0;34.0;0.05;0.27;;2.0;Indice_absentismo01_01_2025-31_12_2025 (10).pdf
+Consejería de Hacienda y Administración Pública;;01/01/2025 AL 31/12/2025;702;causa;Por razón de violencia de género sobre la mujer trabajadora;True;0.0;0.0;0.0;0.0;;2.0;Indice_absentismo01_01_2025-31_12_2025 (10).pdf
+Consejería de Hacienda y Administración Pública;;01/01/2025 AL 31/12/2025;702;causa;Práctica voluntaria de interrupción del embarazo;True;0.0;0.0;0.0;0.0;;2.0;Indice_absentismo01_01_2025-31_12_2025 (10).pdf
+Consejería de Hacienda y Administración Pública;;01/01/2025 AL 31/12/2025;702;causa;"Progenitor diferente a la madre biológica por nacimiento, guarda con
+fines de adopción, acogimiento o adopción";True;0.0;0.0;0.0;0.0;;2.0;Indice_absentismo01_01_2025-31_12_2025 (10).pdf
+Consejería de Hacienda y Administración Pública;;01/01/2025 AL 31/12/2025;702;causa;Realizar funciones sindicales o de representación de personal;True;36.0;42.0;0.06;0.34;;3.0;Indice_absentismo01_01_2025-31_12_2025 (10).pdf
+Consejería de Hacienda y Administración Pública;;01/01/2025 AL 31/12/2025;702;causa;Salidas por motivos de trabajo;False;296.0;298.0;0.42;2.38;;3.0;Indice_absentismo01_01_2025-31_12_2025 (10).pdf
+Consejería de Hacienda y Administración Pública;;01/01/2025 AL 31/12/2025;702;causa;Someterse a técnicas de fecundación o reproducción asistida;True;5.0;5.0;0.01;0.04;;3.0;Indice_absentismo01_01_2025-31_12_2025 (10).pdf
+Consejería de Hacienda y Administración Pública;;01/01/2025 AL 31/12/2025;702;causa;Traslado de domicilio;True;12.0;10.0;0.01;0.08;;3.0;Indice_absentismo01_01_2025-31_12_2025 (10).pdf
+Consejería de Hacienda y Administración Pública;;01/01/2025 AL 31/12/2025;702;causa;Vacaciones 2023;False;1.0;36.0;0.05;0.29;;3.0;Indice_absentismo01_01_2025-31_12_2025 (10).pdf
+Consejería de Hacienda y Administración Pública;;01/01/2025 AL 31/12/2025;702;causa;Vacaciones 2024;False;498.0;1740.0;2.48;13.9;;3.0;Indice_absentismo01_01_2025-31_12_2025 (10).pdf
+Consejería de Hacienda y Administración Pública;;01/01/2025 AL 31/12/2025;702;causa;Vacaciones 2025;False;2089.0;12983.0;18.49;103.73;;3.0;Indice_absentismo01_01_2025-31_12_2025 (10).pdf
+Consejería de Hacienda y Administración Pública;;01/01/2025 AL 31/12/2025;702;causa;Asistencia a cursos de perfeccionamiento profesional no retribuido;True;11.0;14.0;0.02;0.11;;3.0;Indice_absentismo01_01_2025-31_12_2025 (10).pdf
+Consejería de Hacienda y Administración Pública;;01/01/2025 AL 31/12/2025;702;causa;"Asistir a cursos de formación de centros oficiales de estudio para
+empleados públicos u organizados en el marco de acuerdos de
+formación continua";False;282.0;639.0;0.91;5.11;;3.0;Indice_absentismo01_01_2025-31_12_2025 (10).pdf
+Consejería de Hacienda y Administración Pública;;01/01/2025 AL 31/12/2025;702;causa;"Asistir a cursos selectivos o realizar períodos de prácticas cuando se
+superen procesos selectivos";True;0.0;0.0;0.0;0.0;;3.0;Indice_absentismo01_01_2025-31_12_2025 (10).pdf
+Consejería de Hacienda y Administración Pública;;01/01/2025 AL 31/12/2025;702;causa;Concurrir a exámenes finales, pruebas definitivas y pruebas selectivas;True;63.0;65.0;0.09;0.52;;3.0;Indice_absentismo01_01_2025-31_12_2025 (10).pdf
+Consejería de Hacienda y Administración Pública;;01/01/2025 AL 31/12/2025;702;causa;"Cursos de perfeccionamiento profesional fuera del ámbito de la
+Administración";True;6.0;6.0;0.01;0.05;;3.0;Indice_absentismo01_01_2025-31_12_2025 (10).pdf
+Consejería de Hacienda y Administración Pública;;01/01/2025 AL 31/12/2025;702;causa;"Realización de estudios sobre materias directamente relacionadas
+con el puesto de trabajo";True;0.0;0.0;0.0;0.0;;3.0;Indice_absentismo01_01_2025-31_12_2025 (10).pdf
+Consejería de Hacienda y Administración Pública;;01/01/2025 AL 31/12/2025;702;causa;TOTAL;False;3610.0;12516.0;17.83;100.0;;3.0;Indice_absentismo01_01_2025-31_12_2025 (10).pdf
+Consejería de Hacienda y Administración Pública;;01/01/2025 AL 31/12/2025;702;resumen;Importancia de las CAUSAS DE SALUD respecto al ABSENTISMO GENERAL;;;;;;80.15;;Indice_absentismo01_01_2025-31_12_2025 (10).pdf
+Consejería de Hacienda y Administración Pública;;01/01/2025 AL 31/12/2025;702;resumen;Índice General de ABSENTISMO;;;;;;7.28;;Indice_absentismo01_01_2025-31_12_2025 (10).pdf
+Consejería de Agricultura, Ganadería y Desarrollo Sostenible;;01/01/2025 AL 31/12/2025;1767;causa;Asistir a consulta médica o asistencia sanitaria de carácter personal;True;6836.0;6905.0;3.91;20.54;;1.0;Indice_absentismo01_01_2025-31_12_2025 (11).pdf
+Consejería de Agricultura, Ganadería y Desarrollo Sostenible;;01/01/2025 AL 31/12/2025;1767;causa;Enfermedad o accidente con incapacidad temporal;True;423.0;16686.0;9.44;49.64;;1.0;Indice_absentismo01_01_2025-31_12_2025 (11).pdf
+Consejería de Agricultura, Ganadería y Desarrollo Sostenible;;01/01/2025 AL 31/12/2025;1767;causa;Enfermedad o accidente sin incapacidad temporal;True;302.0;555.0;0.31;1.65;;1.0;Indice_absentismo01_01_2025-31_12_2025 (11).pdf
+Consejería de Agricultura, Ganadería y Desarrollo Sostenible;;01/01/2025 AL 31/12/2025;1767;causa;"Accidente o enfermedad grave, hospitalización o intervención
+quirúrgica ambulatoria de un familiar";True;1196.0;2603.0;1.47;7.74;;1.0;Indice_absentismo01_01_2025-31_12_2025 (11).pdf
+Consejería de Agricultura, Ganadería y Desarrollo Sostenible;;01/01/2025 AL 31/12/2025;1767;causa;Acompañar a familiar a consulta médica o asistencia sanitaria;True;2731.0;2747.0;1.55;8.17;;1.0;Indice_absentismo01_01_2025-31_12_2025 (11).pdf
+Consejería de Agricultura, Ganadería y Desarrollo Sostenible;;01/01/2025 AL 31/12/2025;1767;causa;"Adopción, guarda con fines de adopción o acogimiento, tanto temporal
+como permanente";True;0.0;0.0;0.0;0.0;;1.0;Indice_absentismo01_01_2025-31_12_2025 (11).pdf
+Consejería de Agricultura, Ganadería y Desarrollo Sostenible;;01/01/2025 AL 31/12/2025;1767;causa;"Asistir a reuniones de coordinación o acompañamiento a hijos o hijas
+con discapacidad";True;11.0;11.0;0.01;0.03;;1.0;Indice_absentismo01_01_2025-31_12_2025 (11).pdf
+Consejería de Agricultura, Ganadería y Desarrollo Sostenible;;01/01/2025 AL 31/12/2025;1767;causa;Asuntos particulares fraccionados;False;0.0;0.0;0.0;0.0;;1.0;Indice_absentismo01_01_2025-31_12_2025 (11).pdf
+Consejería de Agricultura, Ganadería y Desarrollo Sostenible;;01/01/2025 AL 31/12/2025;1767;causa;Asuntos particulares fraccionados del año anterior;False;0.0;0.0;0.0;0.0;;1.0;Indice_absentismo01_01_2025-31_12_2025 (11).pdf
+Consejería de Agricultura, Ganadería y Desarrollo Sostenible;;01/01/2025 AL 31/12/2025;1767;causa;Asuntos Particulares 2024;False;2190.0;5237.0;2.96;15.58;;1.0;Indice_absentismo01_01_2025-31_12_2025 (11).pdf
+Consejería de Agricultura, Ganadería y Desarrollo Sostenible;;01/01/2025 AL 31/12/2025;1767;causa;Asuntos Particulares 2025;False;8165.0;12094.0;6.84;35.98;;1.0;Indice_absentismo01_01_2025-31_12_2025 (11).pdf
+Consejería de Agricultura, Ganadería y Desarrollo Sostenible;;01/01/2025 AL 31/12/2025;1767;causa;Asuntos Particulares 2026;False;2.0;2.0;0.0;0.01;;1.0;Indice_absentismo01_01_2025-31_12_2025 (11).pdf
+Consejería de Agricultura, Ganadería y Desarrollo Sostenible;;01/01/2025 AL 31/12/2025;1767;causa;Asuntos propios sin retribución;True;8.0;88.0;0.05;0.26;;1.0;Indice_absentismo01_01_2025-31_12_2025 (11).pdf
+Consejería de Agricultura, Ganadería y Desarrollo Sostenible;;01/01/2025 AL 31/12/2025;1767;causa;Ausencia no justificable por permiso.;False;0.0;0.0;0.0;0.0;;1.0;Indice_absentismo01_01_2025-31_12_2025 (11).pdf
+Consejería de Agricultura, Ganadería y Desarrollo Sostenible;;01/01/2025 AL 31/12/2025;1767;causa;Ausencia por emergencia familiar;True;38.0;36.0;0.02;0.11;;1.0;Indice_absentismo01_01_2025-31_12_2025 (11).pdf
+Consejería de Agricultura, Ganadería y Desarrollo Sostenible;;01/01/2025 AL 31/12/2025;1767;causa;"Colaboración en Programas de Cooperación y Ayuda Humanitaria, y
+en Programas y Proyectos de Ayuda y Cooperación al Desarrollo";True;0.0;0.0;0.0;0.0;;2.0;Indice_absentismo01_01_2025-31_12_2025 (11).pdf
+Consejería de Agricultura, Ganadería y Desarrollo Sostenible;;01/01/2025 AL 31/12/2025;1767;causa;Comisión de servicios;False;1060.0;1745.0;0.99;5.19;;2.0;Indice_absentismo01_01_2025-31_12_2025 (11).pdf
+Consejería de Agricultura, Ganadería y Desarrollo Sostenible;;01/01/2025 AL 31/12/2025;1767;causa;Compensación horaria por servicios extraordinarios;False;0.0;0.0;0.0;0.0;;2.0;Indice_absentismo01_01_2025-31_12_2025 (11).pdf
+Consejería de Agricultura, Ganadería y Desarrollo Sostenible;;01/01/2025 AL 31/12/2025;1767;causa;"Cuidado de hijo o hija menor afectado por cáncer u otra enfermedad
+grave";True;0.0;0.0;0.0;0.0;;2.0;Indice_absentismo01_01_2025-31_12_2025 (11).pdf
+Consejería de Agricultura, Ganadería y Desarrollo Sostenible;;01/01/2025 AL 31/12/2025;1767;causa;"Cuidado de un familiar de primer grado, cónyuge o pareja de hecho
+por enfermedad muy grave";True;21.0;55.0;0.03;0.16;;2.0;Indice_absentismo01_01_2025-31_12_2025 (11).pdf
+Consejería de Agricultura, Ganadería y Desarrollo Sostenible;;01/01/2025 AL 31/12/2025;1767;causa;"Cumplir un deber inexcusable y deberes relacionados con la vida
+familiar y laboral";True;335.0;333.0;0.19;0.99;;2.0;Indice_absentismo01_01_2025-31_12_2025 (11).pdf
+Consejería de Agricultura, Ganadería y Desarrollo Sostenible;;01/01/2025 AL 31/12/2025;1767;causa;"Desplazamiento previo en los casos de adopción o acogimiento
+internacional";True;0.0;0.0;0.0;0.0;;2.0;Indice_absentismo01_01_2025-31_12_2025 (11).pdf
+Consejería de Agricultura, Ganadería y Desarrollo Sostenible;;01/01/2025 AL 31/12/2025;1767;causa;"Exámenes prenatales, técnicas de preparación al parto y sesiones e
+informes en los casos de adopción, guarda con fines de adopción o
+acogimiento";True;5.0;5.0;0.0;0.01;;2.0;Indice_absentismo01_01_2025-31_12_2025 (11).pdf
+Consejería de Agricultura, Ganadería y Desarrollo Sostenible;;01/01/2025 AL 31/12/2025;1767;causa;Fallecimiento de un familiar;True;217.0;546.0;0.31;1.62;;2.0;Indice_absentismo01_01_2025-31_12_2025 (11).pdf
+Consejería de Agricultura, Ganadería y Desarrollo Sostenible;;01/01/2025 AL 31/12/2025;1767;causa;Horas de Compensación 2024;False;70.0;104.0;0.06;0.31;;2.0;Indice_absentismo01_01_2025-31_12_2025 (11).pdf
+Consejería de Agricultura, Ganadería y Desarrollo Sostenible;;01/01/2025 AL 31/12/2025;1767;causa;Horas de Compensación 2025;False;1201.0;1873.0;1.06;5.57;;2.0;Indice_absentismo01_01_2025-31_12_2025 (11).pdf
+Consejería de Agricultura, Ganadería y Desarrollo Sostenible;;01/01/2025 AL 31/12/2025;1767;causa;Huelga legal;True;27.0;27.0;0.02;0.08;;2.0;Indice_absentismo01_01_2025-31_12_2025 (11).pdf
+Consejería de Agricultura, Ganadería y Desarrollo Sostenible;;01/01/2025 AL 31/12/2025;1767;causa;Lactancia acumulada;True;15.0;302.0;0.17;0.9;;2.0;Indice_absentismo01_01_2025-31_12_2025 (11).pdf
+Consejería de Agricultura, Ganadería y Desarrollo Sostenible;;01/01/2025 AL 31/12/2025;1767;causa;Lactancia (no acumulada);True;0.0;0.0;0.0;0.0;;2.0;Indice_absentismo01_01_2025-31_12_2025 (11).pdf
+Consejería de Agricultura, Ganadería y Desarrollo Sostenible;;01/01/2025 AL 31/12/2025;1767;causa;Matrimonio o pareja de hecho;True;13.0;109.0;0.06;0.32;;2.0;Indice_absentismo01_01_2025-31_12_2025 (11).pdf
+Consejería de Agricultura, Ganadería y Desarrollo Sostenible;;01/01/2025 AL 31/12/2025;1767;causa;"Nacimiento de hijos o hijas prematuros u hospitalizados a
+continuación del parto";True;3.0;191.0;0.11;0.57;;2.0;Indice_absentismo01_01_2025-31_12_2025 (11).pdf
+Consejería de Agricultura, Ganadería y Desarrollo Sostenible;;01/01/2025 AL 31/12/2025;1767;causa;Nacimiento para la madre biológica;True;5.0;423.0;0.24;1.26;;2.0;Indice_absentismo01_01_2025-31_12_2025 (11).pdf
+Consejería de Agricultura, Ganadería y Desarrollo Sostenible;;01/01/2025 AL 31/12/2025;1767;causa;Otras ausencias no contempladas;True;1631.0;844.0;0.48;2.51;;2.0;Indice_absentismo01_01_2025-31_12_2025 (11).pdf
+Consejería de Agricultura, Ganadería y Desarrollo Sostenible;;01/01/2025 AL 31/12/2025;1767;causa;"Permiso parental para el cuidado de hijo, hija o menor acogido por
+tiempo superior a un año, hasta que el menor cumpla 8 años";True;4.0;46.0;0.03;0.14;;2.0;Indice_absentismo01_01_2025-31_12_2025 (11).pdf
+Consejería de Agricultura, Ganadería y Desarrollo Sostenible;;01/01/2025 AL 31/12/2025;1767;causa;Por razón de violencia de género sobre la mujer trabajadora;True;0.0;0.0;0.0;0.0;;2.0;Indice_absentismo01_01_2025-31_12_2025 (11).pdf
+Consejería de Agricultura, Ganadería y Desarrollo Sostenible;;01/01/2025 AL 31/12/2025;1767;causa;Práctica voluntaria de interrupción del embarazo;True;0.0;0.0;0.0;0.0;;2.0;Indice_absentismo01_01_2025-31_12_2025 (11).pdf
+Consejería de Agricultura, Ganadería y Desarrollo Sostenible;;01/01/2025 AL 31/12/2025;1767;causa;"Progenitor diferente a la madre biológica por nacimiento, guarda con
+fines de adopción, acogimiento o adopción";True;20.0;534.0;0.3;1.59;;3.0;Indice_absentismo01_01_2025-31_12_2025 (11).pdf
+Consejería de Agricultura, Ganadería y Desarrollo Sostenible;;01/01/2025 AL 31/12/2025;1767;causa;Realizar funciones sindicales o de representación de personal;True;323.0;357.0;0.2;1.06;;3.0;Indice_absentismo01_01_2025-31_12_2025 (11).pdf
+Consejería de Agricultura, Ganadería y Desarrollo Sostenible;;01/01/2025 AL 31/12/2025;1767;causa;Salidas por motivos de trabajo;False;21125.0;21117.0;11.95;62.83;;3.0;Indice_absentismo01_01_2025-31_12_2025 (11).pdf
+Consejería de Agricultura, Ganadería y Desarrollo Sostenible;;01/01/2025 AL 31/12/2025;1767;causa;Someterse a técnicas de fecundación o reproducción asistida;True;5.0;6.0;0.0;0.02;;3.0;Indice_absentismo01_01_2025-31_12_2025 (11).pdf
+Consejería de Agricultura, Ganadería y Desarrollo Sostenible;;01/01/2025 AL 31/12/2025;1767;causa;Traslado de domicilio;True;28.0;30.0;0.02;0.09;;3.0;Indice_absentismo01_01_2025-31_12_2025 (11).pdf
+Consejería de Agricultura, Ganadería y Desarrollo Sostenible;;01/01/2025 AL 31/12/2025;1767;causa;Vacaciones 2023;False;7.0;78.0;0.04;0.23;;3.0;Indice_absentismo01_01_2025-31_12_2025 (11).pdf
+Consejería de Agricultura, Ganadería y Desarrollo Sostenible;;01/01/2025 AL 31/12/2025;1767;causa;Vacaciones 2024;False;1071.0;4637.0;2.62;13.8;;3.0;Indice_absentismo01_01_2025-31_12_2025 (11).pdf
+Consejería de Agricultura, Ganadería y Desarrollo Sostenible;;01/01/2025 AL 31/12/2025;1767;causa;Vacaciones 2025;False;5100.0;33179.0;18.78;98.71;;3.0;Indice_absentismo01_01_2025-31_12_2025 (11).pdf
+Consejería de Agricultura, Ganadería y Desarrollo Sostenible;;01/01/2025 AL 31/12/2025;1767;causa;Asistencia a cursos de perfeccionamiento profesional no retribuido;True;14.0;13.0;0.01;0.04;;3.0;Indice_absentismo01_01_2025-31_12_2025 (11).pdf
+Consejería de Agricultura, Ganadería y Desarrollo Sostenible;;01/01/2025 AL 31/12/2025;1767;causa;"Asistir a cursos de formación de centros oficiales de estudio para
+empleados públicos u organizados en el marco de acuerdos de
+formación continua";False;1244.0;1922.0;1.09;5.72;;3.0;Indice_absentismo01_01_2025-31_12_2025 (11).pdf
+Consejería de Agricultura, Ganadería y Desarrollo Sostenible;;01/01/2025 AL 31/12/2025;1767;causa;"Asistir a cursos selectivos o realizar períodos de prácticas cuando se
+superen procesos selectivos";True;0.0;0.0;0.0;0.0;;3.0;Indice_absentismo01_01_2025-31_12_2025 (11).pdf
+Consejería de Agricultura, Ganadería y Desarrollo Sostenible;;01/01/2025 AL 31/12/2025;1767;causa;Concurrir a exámenes finales, pruebas definitivas y pruebas selectivas;True;141.0;145.0;0.08;0.43;;3.0;Indice_absentismo01_01_2025-31_12_2025 (11).pdf
+Consejería de Agricultura, Ganadería y Desarrollo Sostenible;;01/01/2025 AL 31/12/2025;1767;causa;"Cursos de perfeccionamiento profesional fuera del ámbito de la
+Administración";True;11.0;14.0;0.01;0.04;;3.0;Indice_absentismo01_01_2025-31_12_2025 (11).pdf
+Consejería de Agricultura, Ganadería y Desarrollo Sostenible;;01/01/2025 AL 31/12/2025;1767;causa;"Realización de estudios sobre materias directamente relacionadas
+con el puesto de trabajo";True;1.0;1.0;0.0;0.0;;3.0;Indice_absentismo01_01_2025-31_12_2025 (11).pdf
+Consejería de Agricultura, Ganadería y Desarrollo Sostenible;;01/01/2025 AL 31/12/2025;1767;causa;TOTAL;False;14364.0;33612.0;19.02;100.0;;3.0;Indice_absentismo01_01_2025-31_12_2025 (11).pdf
+Consejería de Agricultura, Ganadería y Desarrollo Sostenible;;01/01/2025 AL 31/12/2025;1767;resumen;Importancia de las CAUSAS DE SALUD respecto al ABSENTISMO GENERAL;;;;;;71.83;;Indice_absentismo01_01_2025-31_12_2025 (11).pdf
+Consejería de Agricultura, Ganadería y Desarrollo Sostenible;;01/01/2025 AL 31/12/2025;1767;resumen;Índice General de ABSENTISMO;;;;;;7.76;;Indice_absentismo01_01_2025-31_12_2025 (11).pdf
+Consejería de Economía, Empleo y Transformación Digital;;01/01/2025 AL 31/12/2025;482;causa;Asistir a consulta médica o asistencia sanitaria de carácter personal;True;886.0;880.0;1.83;14.26;;1.0;Indice_absentismo01_01_2025-31_12_2025 (12).pdf
+Consejería de Economía, Empleo y Transformación Digital;;01/01/2025 AL 31/12/2025;482;causa;Enfermedad o accidente con incapacidad temporal;True;83.0;3168.0;6.57;51.35;;1.0;Indice_absentismo01_01_2025-31_12_2025 (12).pdf
+Consejería de Economía, Empleo y Transformación Digital;;01/01/2025 AL 31/12/2025;482;causa;Enfermedad o accidente sin incapacidad temporal;True;122.0;190.0;0.39;3.08;;1.0;Indice_absentismo01_01_2025-31_12_2025 (12).pdf
+Consejería de Economía, Empleo y Transformación Digital;;01/01/2025 AL 31/12/2025;482;causa;"Accidente o enfermedad grave, hospitalización o intervención
+quirúrgica ambulatoria de un familiar";True;270.0;563.0;1.17;9.12;;1.0;Indice_absentismo01_01_2025-31_12_2025 (12).pdf
+Consejería de Economía, Empleo y Transformación Digital;;01/01/2025 AL 31/12/2025;482;causa;Acompañar a familiar a consulta médica o asistencia sanitaria;True;453.0;446.0;0.93;7.23;;1.0;Indice_absentismo01_01_2025-31_12_2025 (12).pdf
+Consejería de Economía, Empleo y Transformación Digital;;01/01/2025 AL 31/12/2025;482;causa;"Adopción, guarda con fines de adopción o acogimiento, tanto temporal
+como permanente";True;0.0;0.0;0.0;0.0;;1.0;Indice_absentismo01_01_2025-31_12_2025 (12).pdf
+Consejería de Economía, Empleo y Transformación Digital;;01/01/2025 AL 31/12/2025;482;causa;"Asistir a reuniones de coordinación o acompañamiento a hijos o hijas
+con discapacidad";True;3.0;3.0;0.01;0.05;;1.0;Indice_absentismo01_01_2025-31_12_2025 (12).pdf
+Consejería de Economía, Empleo y Transformación Digital;;01/01/2025 AL 31/12/2025;482;causa;Asuntos particulares fraccionados;False;0.0;0.0;0.0;0.0;;1.0;Indice_absentismo01_01_2025-31_12_2025 (12).pdf
+Consejería de Economía, Empleo y Transformación Digital;;01/01/2025 AL 31/12/2025;482;causa;Asuntos particulares fraccionados del año anterior;False;0.0;0.0;0.0;0.0;;1.0;Indice_absentismo01_01_2025-31_12_2025 (12).pdf
+Consejería de Economía, Empleo y Transformación Digital;;01/01/2025 AL 31/12/2025;482;causa;Asuntos Particulares 2024;False;721.0;1641.0;3.4;26.6;;1.0;Indice_absentismo01_01_2025-31_12_2025 (12).pdf
+Consejería de Economía, Empleo y Transformación Digital;;01/01/2025 AL 31/12/2025;482;causa;Asuntos Particulares 2025;False;2275.0;3351.0;6.95;54.31;;1.0;Indice_absentismo01_01_2025-31_12_2025 (12).pdf
+Consejería de Economía, Empleo y Transformación Digital;;01/01/2025 AL 31/12/2025;482;causa;Asuntos propios sin retribución;True;2.0;33.0;0.07;0.53;;1.0;Indice_absentismo01_01_2025-31_12_2025 (12).pdf
+Consejería de Economía, Empleo y Transformación Digital;;01/01/2025 AL 31/12/2025;482;causa;Ausencia no justificable por permiso.;False;0.0;0.0;0.0;0.0;;1.0;Indice_absentismo01_01_2025-31_12_2025 (12).pdf
+Consejería de Economía, Empleo y Transformación Digital;;01/01/2025 AL 31/12/2025;482;causa;Ausencia por emergencia familiar;True;2.0;2.0;0.0;0.03;;1.0;Indice_absentismo01_01_2025-31_12_2025 (12).pdf
+Consejería de Economía, Empleo y Transformación Digital;;01/01/2025 AL 31/12/2025;482;causa;"Colaboración en Programas de Cooperación y Ayuda Humanitaria, y
+en Programas y Proyectos de Ayuda y Cooperación al Desarrollo";True;0.0;0.0;0.0;0.0;;1.0;Indice_absentismo01_01_2025-31_12_2025 (12).pdf
+Consejería de Economía, Empleo y Transformación Digital;;01/01/2025 AL 31/12/2025;482;causa;Comisión de servicios;False;878.0;917.0;1.9;14.86;;2.0;Indice_absentismo01_01_2025-31_12_2025 (12).pdf
+Consejería de Economía, Empleo y Transformación Digital;;01/01/2025 AL 31/12/2025;482;causa;Compensación horaria por servicios extraordinarios;False;0.0;0.0;0.0;0.0;;2.0;Indice_absentismo01_01_2025-31_12_2025 (12).pdf
+Consejería de Economía, Empleo y Transformación Digital;;01/01/2025 AL 31/12/2025;482;causa;"Cuidado de hijo o hija menor afectado por cáncer u otra enfermedad
+grave";True;2.0;147.0;0.3;2.38;;2.0;Indice_absentismo01_01_2025-31_12_2025 (12).pdf
+Consejería de Economía, Empleo y Transformación Digital;;01/01/2025 AL 31/12/2025;482;causa;"Cuidado de un familiar de primer grado, cónyuge o pareja de hecho
+por enfermedad muy grave";True;2.0;3.0;0.01;0.05;;2.0;Indice_absentismo01_01_2025-31_12_2025 (12).pdf
+Consejería de Economía, Empleo y Transformación Digital;;01/01/2025 AL 31/12/2025;482;causa;"Cumplir un deber inexcusable y deberes relacionados con la vida
+familiar y laboral";True;30.0;31.0;0.06;0.5;;2.0;Indice_absentismo01_01_2025-31_12_2025 (12).pdf
+Consejería de Economía, Empleo y Transformación Digital;;01/01/2025 AL 31/12/2025;482;causa;"Desplazamiento previo en los casos de adopción o acogimiento
+internacional";True;0.0;0.0;0.0;0.0;;2.0;Indice_absentismo01_01_2025-31_12_2025 (12).pdf
+Consejería de Economía, Empleo y Transformación Digital;;01/01/2025 AL 31/12/2025;482;causa;"Exámenes prenatales, técnicas de preparación al parto y sesiones e
+informes en los casos de adopción, guarda con fines de adopción o
+acogimiento";True;1.0;1.0;0.0;0.02;;2.0;Indice_absentismo01_01_2025-31_12_2025 (12).pdf
+Consejería de Economía, Empleo y Transformación Digital;;01/01/2025 AL 31/12/2025;482;causa;Fallecimiento de un familiar;True;40.0;101.0;0.21;1.64;;2.0;Indice_absentismo01_01_2025-31_12_2025 (12).pdf
+Consejería de Economía, Empleo y Transformación Digital;;01/01/2025 AL 31/12/2025;482;causa;Horas de Compensación 2024;False;5.0;5.0;0.01;0.08;;2.0;Indice_absentismo01_01_2025-31_12_2025 (12).pdf
+Consejería de Economía, Empleo y Transformación Digital;;01/01/2025 AL 31/12/2025;482;causa;Horas de Compensación 2025;False;80.0;83.0;0.17;1.35;;2.0;Indice_absentismo01_01_2025-31_12_2025 (12).pdf
+Consejería de Economía, Empleo y Transformación Digital;;01/01/2025 AL 31/12/2025;482;causa;Huelga legal;True;8.0;8.0;0.02;0.13;;2.0;Indice_absentismo01_01_2025-31_12_2025 (12).pdf
+Consejería de Economía, Empleo y Transformación Digital;;01/01/2025 AL 31/12/2025;482;causa;Lactancia acumulada;True;3.0;60.0;0.12;0.97;;2.0;Indice_absentismo01_01_2025-31_12_2025 (12).pdf
+Consejería de Economía, Empleo y Transformación Digital;;01/01/2025 AL 31/12/2025;482;causa;Lactancia (no acumulada);True;0.0;0.0;0.0;0.0;;2.0;Indice_absentismo01_01_2025-31_12_2025 (12).pdf
+Consejería de Economía, Empleo y Transformación Digital;;01/01/2025 AL 31/12/2025;482;causa;Matrimonio o pareja de hecho;True;2.0;20.0;0.04;0.32;;2.0;Indice_absentismo01_01_2025-31_12_2025 (12).pdf
+Consejería de Economía, Empleo y Transformación Digital;;01/01/2025 AL 31/12/2025;482;causa;"Nacimiento de hijos o hijas prematuros u hospitalizados a
+continuación del parto";True;0.0;0.0;0.0;0.0;;2.0;Indice_absentismo01_01_2025-31_12_2025 (12).pdf
+Consejería de Economía, Empleo y Transformación Digital;;01/01/2025 AL 31/12/2025;482;causa;Nacimiento para la madre biológica;True;1.0;65.0;0.13;1.05;;2.0;Indice_absentismo01_01_2025-31_12_2025 (12).pdf
+Consejería de Economía, Empleo y Transformación Digital;;01/01/2025 AL 31/12/2025;482;causa;Otras ausencias no contempladas;True;77.0;64.0;0.13;1.04;;2.0;Indice_absentismo01_01_2025-31_12_2025 (12).pdf
+Consejería de Economía, Empleo y Transformación Digital;;01/01/2025 AL 31/12/2025;482;causa;"Permiso parental para el cuidado de hijo, hija o menor acogido por
+tiempo superior a un año, hasta que el menor cumpla 8 años";True;2.0;10.0;0.02;0.16;;2.0;Indice_absentismo01_01_2025-31_12_2025 (12).pdf
+Consejería de Economía, Empleo y Transformación Digital;;01/01/2025 AL 31/12/2025;482;causa;Por razón de violencia de género sobre la mujer trabajadora;True;0.0;0.0;0.0;0.0;;2.0;Indice_absentismo01_01_2025-31_12_2025 (12).pdf
+Consejería de Economía, Empleo y Transformación Digital;;01/01/2025 AL 31/12/2025;482;causa;Práctica voluntaria de interrupción del embarazo;True;0.0;0.0;0.0;0.0;;2.0;Indice_absentismo01_01_2025-31_12_2025 (12).pdf
+Consejería de Economía, Empleo y Transformación Digital;;01/01/2025 AL 31/12/2025;482;causa;"Progenitor diferente a la madre biológica por nacimiento, guarda con
+fines de adopción, acogimiento o adopción";True;5.0;209.0;0.43;3.39;;2.0;Indice_absentismo01_01_2025-31_12_2025 (12).pdf
+Consejería de Economía, Empleo y Transformación Digital;;01/01/2025 AL 31/12/2025;482;causa;Realizar funciones sindicales o de representación de personal;True;0.0;0.0;0.0;0.0;;3.0;Indice_absentismo01_01_2025-31_12_2025 (12).pdf
+Consejería de Economía, Empleo y Transformación Digital;;01/01/2025 AL 31/12/2025;482;causa;Salidas por motivos de trabajo;False;367.0;376.0;0.78;6.09;;3.0;Indice_absentismo01_01_2025-31_12_2025 (12).pdf
+Consejería de Economía, Empleo y Transformación Digital;;01/01/2025 AL 31/12/2025;482;causa;Someterse a técnicas de fecundación o reproducción asistida;True;0.0;0.0;0.0;0.0;;3.0;Indice_absentismo01_01_2025-31_12_2025 (12).pdf
+Consejería de Economía, Empleo y Transformación Digital;;01/01/2025 AL 31/12/2025;482;causa;Traslado de domicilio;True;11.0;11.0;0.02;0.18;;3.0;Indice_absentismo01_01_2025-31_12_2025 (12).pdf
+Consejería de Economía, Empleo y Transformación Digital;;01/01/2025 AL 31/12/2025;482;causa;Vacaciones 2023;False;1.0;26.0;0.05;0.42;;3.0;Indice_absentismo01_01_2025-31_12_2025 (12).pdf
+Consejería de Economía, Empleo y Transformación Digital;;01/01/2025 AL 31/12/2025;482;causa;Vacaciones 2024;False;270.0;1142.0;2.37;18.51;;3.0;Indice_absentismo01_01_2025-31_12_2025 (12).pdf
+Consejería de Economía, Empleo y Transformación Digital;;01/01/2025 AL 31/12/2025;482;causa;Vacaciones 2025;False;1492.0;9658.0;20.04;156.53;;3.0;Indice_absentismo01_01_2025-31_12_2025 (12).pdf
+Consejería de Economía, Empleo y Transformación Digital;;01/01/2025 AL 31/12/2025;482;causa;Asistencia a cursos de perfeccionamiento profesional no retribuido;True;6.0;10.0;0.02;0.16;;3.0;Indice_absentismo01_01_2025-31_12_2025 (12).pdf
+Consejería de Economía, Empleo y Transformación Digital;;01/01/2025 AL 31/12/2025;482;causa;"Asistir a cursos de formación de centros oficiales de estudio para
+empleados públicos u organizados en el marco de acuerdos de
+formación continua";False;214.0;556.0;1.15;9.01;;3.0;Indice_absentismo01_01_2025-31_12_2025 (12).pdf
+Consejería de Economía, Empleo y Transformación Digital;;01/01/2025 AL 31/12/2025;482;causa;"Asistir a cursos selectivos o realizar períodos de prácticas cuando se
+superen procesos selectivos";True;0.0;0.0;0.0;0.0;;3.0;Indice_absentismo01_01_2025-31_12_2025 (12).pdf
+Consejería de Economía, Empleo y Transformación Digital;;01/01/2025 AL 31/12/2025;482;causa;Concurrir a exámenes finales, pruebas definitivas y pruebas selectivas;True;65.0;67.0;0.14;1.09;;3.0;Indice_absentismo01_01_2025-31_12_2025 (12).pdf
+Consejería de Economía, Empleo y Transformación Digital;;01/01/2025 AL 31/12/2025;482;causa;"Cursos de perfeccionamiento profesional fuera del ámbito de la
+Administración";True;34.0;47.0;0.1;0.76;;3.0;Indice_absentismo01_01_2025-31_12_2025 (12).pdf
+Consejería de Economía, Empleo y Transformación Digital;;01/01/2025 AL 31/12/2025;482;causa;"Realización de estudios sobre materias directamente relacionadas
+con el puesto de trabajo";True;9.0;31.0;0.06;0.5;;3.0;Indice_absentismo01_01_2025-31_12_2025 (12).pdf
+Consejería de Economía, Empleo y Transformación Digital;;01/01/2025 AL 31/12/2025;482;causa;TOTAL;False;2119.0;6170.0;12.78;100.0;;3.0;Indice_absentismo01_01_2025-31_12_2025 (12).pdf
+Consejería de Economía, Empleo y Transformación Digital;;01/01/2025 AL 31/12/2025;482;resumen;Importancia de las CAUSAS DE SALUD respecto al ABSENTISMO GENERAL;;;;;;68.69;;Indice_absentismo01_01_2025-31_12_2025 (12).pdf
+Consejería de Economía, Empleo y Transformación Digital;;01/01/2025 AL 31/12/2025;482;resumen;Índice General de ABSENTISMO;;;;;;5.22;;Indice_absentismo01_01_2025-31_12_2025 (12).pdf
+Consejería de Salud y Servicios Sociales;;01/01/2025 AL 31/12/2025;881;causa;Asistir a consulta médica o asistencia sanitaria de carácter personal;True;2320.0;2257.0;2.56;19.15;;1.0;Indice_absentismo01_01_2025-31_12_2025 (13).pdf
+Consejería de Salud y Servicios Sociales;;01/01/2025 AL 31/12/2025;881;causa;Enfermedad o accidente con incapacidad temporal;True;191.0;5166.0;5.86;43.84;;1.0;Indice_absentismo01_01_2025-31_12_2025 (13).pdf
+Consejería de Salud y Servicios Sociales;;01/01/2025 AL 31/12/2025;881;causa;Enfermedad o accidente sin incapacidad temporal;True;243.0;370.0;0.42;3.14;;1.0;Indice_absentismo01_01_2025-31_12_2025 (13).pdf
+Consejería de Salud y Servicios Sociales;;01/01/2025 AL 31/12/2025;881;causa;"Accidente o enfermedad grave, hospitalización o intervención
+quirúrgica ambulatoria de un familiar";True;467.0;990.0;1.12;8.4;;1.0;Indice_absentismo01_01_2025-31_12_2025 (13).pdf
+Consejería de Salud y Servicios Sociales;;01/01/2025 AL 31/12/2025;881;causa;Acompañar a familiar a consulta médica o asistencia sanitaria;True;1031.0;995.0;1.13;8.44;;1.0;Indice_absentismo01_01_2025-31_12_2025 (13).pdf
+Consejería de Salud y Servicios Sociales;;01/01/2025 AL 31/12/2025;881;causa;"Adopción, guarda con fines de adopción o acogimiento, tanto temporal
+como permanente";True;0.0;0.0;0.0;0.0;;1.0;Indice_absentismo01_01_2025-31_12_2025 (13).pdf
+Consejería de Salud y Servicios Sociales;;01/01/2025 AL 31/12/2025;881;causa;"Asistir a reuniones de coordinación o acompañamiento a hijos o hijas
+con discapacidad";True;16.0;16.0;0.02;0.14;;1.0;Indice_absentismo01_01_2025-31_12_2025 (13).pdf
+Consejería de Salud y Servicios Sociales;;01/01/2025 AL 31/12/2025;881;causa;Asuntos particulares fraccionados;False;0.0;0.0;0.0;0.0;;1.0;Indice_absentismo01_01_2025-31_12_2025 (13).pdf
+Consejería de Salud y Servicios Sociales;;01/01/2025 AL 31/12/2025;881;causa;Asuntos particulares fraccionados del año anterior;False;0.0;0.0;0.0;0.0;;1.0;Indice_absentismo01_01_2025-31_12_2025 (13).pdf
+Consejería de Salud y Servicios Sociales;;01/01/2025 AL 31/12/2025;881;causa;Asuntos Particulares 2024;False;1018.0;2306.0;2.62;19.57;;1.0;Indice_absentismo01_01_2025-31_12_2025 (13).pdf
+Consejería de Salud y Servicios Sociales;;01/01/2025 AL 31/12/2025;881;causa;Asuntos Particulares 2025;False;3688.0;5424.0;6.16;46.03;;1.0;Indice_absentismo01_01_2025-31_12_2025 (13).pdf
+Consejería de Salud y Servicios Sociales;;01/01/2025 AL 31/12/2025;881;causa;Asuntos propios sin retribución;True;0.0;0.0;0.0;0.0;;1.0;Indice_absentismo01_01_2025-31_12_2025 (13).pdf
+Consejería de Salud y Servicios Sociales;;01/01/2025 AL 31/12/2025;881;causa;Ausencia no justificable por permiso.;False;0.0;0.0;0.0;0.0;;1.0;Indice_absentismo01_01_2025-31_12_2025 (13).pdf
+Consejería de Salud y Servicios Sociales;;01/01/2025 AL 31/12/2025;881;causa;Ausencia por emergencia familiar;True;19.0;19.0;0.02;0.16;;1.0;Indice_absentismo01_01_2025-31_12_2025 (13).pdf
+Consejería de Salud y Servicios Sociales;;01/01/2025 AL 31/12/2025;881;causa;"Colaboración en Programas de Cooperación y Ayuda Humanitaria, y
+en Programas y Proyectos de Ayuda y Cooperación al Desarrollo";True;0.0;0.0;0.0;0.0;;1.0;Indice_absentismo01_01_2025-31_12_2025 (13).pdf
+Consejería de Salud y Servicios Sociales;;01/01/2025 AL 31/12/2025;881;causa;Comisión de servicios;False;1834.0;1862.0;2.11;15.8;;2.0;Indice_absentismo01_01_2025-31_12_2025 (13).pdf
+Consejería de Salud y Servicios Sociales;;01/01/2025 AL 31/12/2025;881;causa;Compensación horaria por servicios extraordinarios;False;0.0;0.0;0.0;0.0;;2.0;Indice_absentismo01_01_2025-31_12_2025 (13).pdf
+Consejería de Salud y Servicios Sociales;;01/01/2025 AL 31/12/2025;881;causa;"Cuidado de hijo o hija menor afectado por cáncer u otra enfermedad
+grave";True;0.0;0.0;0.0;0.0;;2.0;Indice_absentismo01_01_2025-31_12_2025 (13).pdf
+Consejería de Salud y Servicios Sociales;;01/01/2025 AL 31/12/2025;881;causa;"Cuidado de un familiar de primer grado, cónyuge o pareja de hecho
+por enfermedad muy grave";True;11.0;58.0;0.07;0.49;;2.0;Indice_absentismo01_01_2025-31_12_2025 (13).pdf
+Consejería de Salud y Servicios Sociales;;01/01/2025 AL 31/12/2025;881;causa;"Cumplir un deber inexcusable y deberes relacionados con la vida
+familiar y laboral";True;188.0;172.0;0.2;1.46;;2.0;Indice_absentismo01_01_2025-31_12_2025 (13).pdf
+Consejería de Salud y Servicios Sociales;;01/01/2025 AL 31/12/2025;881;causa;"Desplazamiento previo en los casos de adopción o acogimiento
+internacional";True;0.0;0.0;0.0;0.0;;2.0;Indice_absentismo01_01_2025-31_12_2025 (13).pdf
+Consejería de Salud y Servicios Sociales;;01/01/2025 AL 31/12/2025;881;causa;"Exámenes prenatales, técnicas de preparación al parto y sesiones e
+informes en los casos de adopción, guarda con fines de adopción o
+acogimiento";True;10.0;10.0;0.01;0.08;;2.0;Indice_absentismo01_01_2025-31_12_2025 (13).pdf
+Consejería de Salud y Servicios Sociales;;01/01/2025 AL 31/12/2025;881;causa;Fallecimiento de un familiar;True;95.0;253.0;0.29;2.15;;2.0;Indice_absentismo01_01_2025-31_12_2025 (13).pdf
+Consejería de Salud y Servicios Sociales;;01/01/2025 AL 31/12/2025;881;causa;Horas de Compensación 2024;False;7.0;7.0;0.01;0.06;;2.0;Indice_absentismo01_01_2025-31_12_2025 (13).pdf
+Consejería de Salud y Servicios Sociales;;01/01/2025 AL 31/12/2025;881;causa;Horas de Compensación 2025;False;89.0;99.0;0.11;0.84;;2.0;Indice_absentismo01_01_2025-31_12_2025 (13).pdf
+Consejería de Salud y Servicios Sociales;;01/01/2025 AL 31/12/2025;881;causa;Huelga legal;True;18.0;18.0;0.02;0.15;;2.0;Indice_absentismo01_01_2025-31_12_2025 (13).pdf
+Consejería de Salud y Servicios Sociales;;01/01/2025 AL 31/12/2025;881;causa;Lactancia acumulada;True;12.0;170.0;0.19;1.44;;2.0;Indice_absentismo01_01_2025-31_12_2025 (13).pdf
+Consejería de Salud y Servicios Sociales;;01/01/2025 AL 31/12/2025;881;causa;Lactancia (no acumulada);True;0.0;0.0;0.0;0.0;;2.0;Indice_absentismo01_01_2025-31_12_2025 (13).pdf
+Consejería de Salud y Servicios Sociales;;01/01/2025 AL 31/12/2025;881;causa;Matrimonio o pareja de hecho;True;2.0;22.0;0.02;0.19;;2.0;Indice_absentismo01_01_2025-31_12_2025 (13).pdf
+Consejería de Salud y Servicios Sociales;;01/01/2025 AL 31/12/2025;881;causa;"Nacimiento de hijos o hijas prematuros u hospitalizados a
+continuación del parto";True;1.0;81.0;0.09;0.69;;2.0;Indice_absentismo01_01_2025-31_12_2025 (13).pdf
+Consejería de Salud y Servicios Sociales;;01/01/2025 AL 31/12/2025;881;causa;Nacimiento para la madre biológica;True;6.0;416.0;0.47;3.53;;2.0;Indice_absentismo01_01_2025-31_12_2025 (13).pdf
+Consejería de Salud y Servicios Sociales;;01/01/2025 AL 31/12/2025;881;causa;Otras ausencias no contempladas;True;245.0;382.0;0.43;3.24;;2.0;Indice_absentismo01_01_2025-31_12_2025 (13).pdf
+Consejería de Salud y Servicios Sociales;;01/01/2025 AL 31/12/2025;881;causa;"Permiso parental para el cuidado de hijo, hija o menor acogido por
+tiempo superior a un año, hasta que el menor cumpla 8 años";True;5.0;49.0;0.06;0.42;;2.0;Indice_absentismo01_01_2025-31_12_2025 (13).pdf
+Consejería de Salud y Servicios Sociales;;01/01/2025 AL 31/12/2025;881;causa;Por razón de violencia de género sobre la mujer trabajadora;True;0.0;0.0;0.0;0.0;;2.0;Indice_absentismo01_01_2025-31_12_2025 (13).pdf
+Consejería de Salud y Servicios Sociales;;01/01/2025 AL 31/12/2025;881;causa;Práctica voluntaria de interrupción del embarazo;True;0.0;0.0;0.0;0.0;;2.0;Indice_absentismo01_01_2025-31_12_2025 (13).pdf
+Consejería de Salud y Servicios Sociales;;01/01/2025 AL 31/12/2025;881;causa;"Progenitor diferente a la madre biológica por nacimiento, guarda con
+fines de adopción, acogimiento o adopción";True;3.0;139.0;0.16;1.18;;2.0;Indice_absentismo01_01_2025-31_12_2025 (13).pdf
+Consejería de Salud y Servicios Sociales;;01/01/2025 AL 31/12/2025;881;causa;Realizar funciones sindicales o de representación de personal;True;63.0;67.0;0.08;0.57;;3.0;Indice_absentismo01_01_2025-31_12_2025 (13).pdf
+Consejería de Salud y Servicios Sociales;;01/01/2025 AL 31/12/2025;881;causa;Salidas por motivos de trabajo;False;3209.0;2932.0;3.33;24.88;;3.0;Indice_absentismo01_01_2025-31_12_2025 (13).pdf
+Consejería de Salud y Servicios Sociales;;01/01/2025 AL 31/12/2025;881;causa;Someterse a técnicas de fecundación o reproducción asistida;True;4.0;4.0;0.0;0.03;;3.0;Indice_absentismo01_01_2025-31_12_2025 (13).pdf
+Consejería de Salud y Servicios Sociales;;01/01/2025 AL 31/12/2025;881;causa;Traslado de domicilio;True;15.0;18.0;0.02;0.15;;3.0;Indice_absentismo01_01_2025-31_12_2025 (13).pdf
+Consejería de Salud y Servicios Sociales;;01/01/2025 AL 31/12/2025;881;causa;Vacaciones 2024;False;451.0;1908.0;2.17;16.19;;3.0;Indice_absentismo01_01_2025-31_12_2025 (13).pdf
+Consejería de Salud y Servicios Sociales;;01/01/2025 AL 31/12/2025;881;causa;Vacaciones 2025;False;2460.0;14229.0;16.15;120.76;;3.0;Indice_absentismo01_01_2025-31_12_2025 (13).pdf
+Consejería de Salud y Servicios Sociales;;01/01/2025 AL 31/12/2025;881;causa;Asistencia a cursos de perfeccionamiento profesional no retribuido;True;10.0;12.0;0.01;0.1;;3.0;Indice_absentismo01_01_2025-31_12_2025 (13).pdf
+Consejería de Salud y Servicios Sociales;;01/01/2025 AL 31/12/2025;881;causa;"Asistir a cursos de formación de centros oficiales de estudio para
+empleados públicos u organizados en el marco de acuerdos de
+formación continua";False;563.0;936.0;1.06;7.94;;3.0;Indice_absentismo01_01_2025-31_12_2025 (13).pdf
+Consejería de Salud y Servicios Sociales;;01/01/2025 AL 31/12/2025;881;causa;"Asistir a cursos selectivos o realizar períodos de prácticas cuando se
+superen procesos selectivos";True;0.0;0.0;0.0;0.0;;3.0;Indice_absentismo01_01_2025-31_12_2025 (13).pdf
+Consejería de Salud y Servicios Sociales;;01/01/2025 AL 31/12/2025;881;causa;Concurrir a exámenes finales, pruebas definitivas y pruebas selectivas;True;52.0;55.0;0.06;0.47;;3.0;Indice_absentismo01_01_2025-31_12_2025 (13).pdf
+Consejería de Salud y Servicios Sociales;;01/01/2025 AL 31/12/2025;881;causa;"Cursos de perfeccionamiento profesional fuera del ámbito de la
+Administración";True;12.0;15.0;0.02;0.13;;3.0;Indice_absentismo01_01_2025-31_12_2025 (13).pdf
+Consejería de Salud y Servicios Sociales;;01/01/2025 AL 31/12/2025;881;causa;"Realización de estudios sobre materias directamente relacionadas
+con el puesto de trabajo";True;17.0;29.0;0.03;0.25;;3.0;Indice_absentismo01_01_2025-31_12_2025 (13).pdf
+Consejería de Salud y Servicios Sociales;;01/01/2025 AL 31/12/2025;881;causa;TOTAL;False;5056.0;11783.0;13.36;100.0;;3.0;Indice_absentismo01_01_2025-31_12_2025 (13).pdf
+Consejería de Salud y Servicios Sociales;;01/01/2025 AL 31/12/2025;881;resumen;Importancia de las CAUSAS DE SALUD respecto al ABSENTISMO GENERAL;;;;;;66.13;;Indice_absentismo01_01_2025-31_12_2025 (13).pdf
+Consejería de Salud y Servicios Sociales;;01/01/2025 AL 31/12/2025;881;resumen;Índice General de ABSENTISMO;;;;;;5.46;;Indice_absentismo01_01_2025-31_12_2025 (13).pdf
+Consejería de Cultura, Turismo, Jóvenes y Deportes;;01/01/2025 AL 31/12/2025;512;causa;Asistir a consulta médica o asistencia sanitaria de carácter personal;True;1218.0;1148.0;2.24;10.51;;1.0;Indice_absentismo01_01_2025-31_12_2025 (14).pdf
+Consejería de Cultura, Turismo, Jóvenes y Deportes;;01/01/2025 AL 31/12/2025;512;causa;Enfermedad o accidente con incapacidad temporal;True;147.0;6914.0;13.5;63.33;;1.0;Indice_absentismo01_01_2025-31_12_2025 (14).pdf
+Consejería de Cultura, Turismo, Jóvenes y Deportes;;01/01/2025 AL 31/12/2025;512;causa;Enfermedad o accidente sin incapacidad temporal;True;112.0;248.0;0.48;2.27;;1.0;Indice_absentismo01_01_2025-31_12_2025 (14).pdf
+Consejería de Cultura, Turismo, Jóvenes y Deportes;;01/01/2025 AL 31/12/2025;512;causa;"Accidente o enfermedad grave, hospitalización o intervención
+quirúrgica ambulatoria de un familiar";True;251.0;499.0;0.97;4.57;;1.0;Indice_absentismo01_01_2025-31_12_2025 (14).pdf
+Consejería de Cultura, Turismo, Jóvenes y Deportes;;01/01/2025 AL 31/12/2025;512;causa;Acompañar a familiar a consulta médica o asistencia sanitaria;True;403.0;372.0;0.73;3.41;;1.0;Indice_absentismo01_01_2025-31_12_2025 (14).pdf
+Consejería de Cultura, Turismo, Jóvenes y Deportes;;01/01/2025 AL 31/12/2025;512;causa;"Adopción, guarda con fines de adopción o acogimiento, tanto temporal
+como permanente";True;0.0;0.0;0.0;0.0;;1.0;Indice_absentismo01_01_2025-31_12_2025 (14).pdf
+Consejería de Cultura, Turismo, Jóvenes y Deportes;;01/01/2025 AL 31/12/2025;512;causa;"Asistir a reuniones de coordinación o acompañamiento a hijos o hijas
+con discapacidad";True;2.0;2.0;0.0;0.02;;1.0;Indice_absentismo01_01_2025-31_12_2025 (14).pdf
+Consejería de Cultura, Turismo, Jóvenes y Deportes;;01/01/2025 AL 31/12/2025;512;causa;Asuntos particulares fraccionados;False;0.0;0.0;0.0;0.0;;1.0;Indice_absentismo01_01_2025-31_12_2025 (14).pdf
+Consejería de Cultura, Turismo, Jóvenes y Deportes;;01/01/2025 AL 31/12/2025;512;causa;Asuntos particulares fraccionados del año anterior;False;0.0;0.0;0.0;0.0;;1.0;Indice_absentismo01_01_2025-31_12_2025 (14).pdf
+Consejería de Cultura, Turismo, Jóvenes y Deportes;;01/01/2025 AL 31/12/2025;512;causa;Asuntos Particulares 2024;False;603.0;1031.0;2.01;9.44;;1.0;Indice_absentismo01_01_2025-31_12_2025 (14).pdf
+Consejería de Cultura, Turismo, Jóvenes y Deportes;;01/01/2025 AL 31/12/2025;512;causa;Asuntos Particulares 2025;False;2394.0;3340.0;6.52;30.59;;1.0;Indice_absentismo01_01_2025-31_12_2025 (14).pdf
+Consejería de Cultura, Turismo, Jóvenes y Deportes;;01/01/2025 AL 31/12/2025;512;causa;Asuntos propios sin retribución;True;1.0;23.0;0.04;0.21;;1.0;Indice_absentismo01_01_2025-31_12_2025 (14).pdf
+Consejería de Cultura, Turismo, Jóvenes y Deportes;;01/01/2025 AL 31/12/2025;512;causa;Ausencia no justificable por permiso.;False;0.0;0.0;0.0;0.0;;1.0;Indice_absentismo01_01_2025-31_12_2025 (14).pdf
+Consejería de Cultura, Turismo, Jóvenes y Deportes;;01/01/2025 AL 31/12/2025;512;causa;Ausencia por emergencia familiar;True;4.0;2.0;0.0;0.02;;1.0;Indice_absentismo01_01_2025-31_12_2025 (14).pdf
+Consejería de Cultura, Turismo, Jóvenes y Deportes;;01/01/2025 AL 31/12/2025;512;causa;"Colaboración en Programas de Cooperación y Ayuda Humanitaria, y
+en Programas y Proyectos de Ayuda y Cooperación al Desarrollo";True;0.0;0.0;0.0;0.0;;1.0;Indice_absentismo01_01_2025-31_12_2025 (14).pdf
+Consejería de Cultura, Turismo, Jóvenes y Deportes;;01/01/2025 AL 31/12/2025;512;causa;Comisión de servicios;False;1502.0;1717.0;3.35;15.73;;2.0;Indice_absentismo01_01_2025-31_12_2025 (14).pdf
+Consejería de Cultura, Turismo, Jóvenes y Deportes;;01/01/2025 AL 31/12/2025;512;causa;Compensación horaria por servicios extraordinarios;False;0.0;0.0;0.0;0.0;;2.0;Indice_absentismo01_01_2025-31_12_2025 (14).pdf
+Consejería de Cultura, Turismo, Jóvenes y Deportes;;01/01/2025 AL 31/12/2025;512;causa;"Cuidado de hijo o hija menor afectado por cáncer u otra enfermedad
+grave";True;0.0;0.0;0.0;0.0;;2.0;Indice_absentismo01_01_2025-31_12_2025 (14).pdf
+Consejería de Cultura, Turismo, Jóvenes y Deportes;;01/01/2025 AL 31/12/2025;512;causa;"Cuidado de un familiar de primer grado, cónyuge o pareja de hecho
+por enfermedad muy grave";True;4.0;17.0;0.03;0.16;;2.0;Indice_absentismo01_01_2025-31_12_2025 (14).pdf
+Consejería de Cultura, Turismo, Jóvenes y Deportes;;01/01/2025 AL 31/12/2025;512;causa;"Cumplir un deber inexcusable y deberes relacionados con la vida
+familiar y laboral";True;79.0;77.0;0.15;0.71;;2.0;Indice_absentismo01_01_2025-31_12_2025 (14).pdf
+Consejería de Cultura, Turismo, Jóvenes y Deportes;;01/01/2025 AL 31/12/2025;512;causa;"Desplazamiento previo en los casos de adopción o acogimiento
+internacional";True;0.0;0.0;0.0;0.0;;2.0;Indice_absentismo01_01_2025-31_12_2025 (14).pdf
+Consejería de Cultura, Turismo, Jóvenes y Deportes;;01/01/2025 AL 31/12/2025;512;causa;"Exámenes prenatales, técnicas de preparación al parto y sesiones e
+informes en los casos de adopción, guarda con fines de adopción o
+acogimiento";True;1.0;1.0;0.0;0.01;;2.0;Indice_absentismo01_01_2025-31_12_2025 (14).pdf
+Consejería de Cultura, Turismo, Jóvenes y Deportes;;01/01/2025 AL 31/12/2025;512;causa;Fallecimiento de un familiar;True;49.0;115.0;0.22;1.05;;2.0;Indice_absentismo01_01_2025-31_12_2025 (14).pdf
+Consejería de Cultura, Turismo, Jóvenes y Deportes;;01/01/2025 AL 31/12/2025;512;causa;Horas de Compensación 2024;False;1.0;0.0;0.0;0.0;;2.0;Indice_absentismo01_01_2025-31_12_2025 (14).pdf
+Consejería de Cultura, Turismo, Jóvenes y Deportes;;01/01/2025 AL 31/12/2025;512;causa;Horas de Compensación 2025;False;260.0;348.0;0.68;3.19;;2.0;Indice_absentismo01_01_2025-31_12_2025 (14).pdf
+Consejería de Cultura, Turismo, Jóvenes y Deportes;;01/01/2025 AL 31/12/2025;512;causa;Huelga legal;True;6.0;5.0;0.01;0.05;;2.0;Indice_absentismo01_01_2025-31_12_2025 (14).pdf
+Consejería de Cultura, Turismo, Jóvenes y Deportes;;01/01/2025 AL 31/12/2025;512;causa;Lactancia acumulada;True;4.0;59.0;0.12;0.54;;2.0;Indice_absentismo01_01_2025-31_12_2025 (14).pdf
+Consejería de Cultura, Turismo, Jóvenes y Deportes;;01/01/2025 AL 31/12/2025;512;causa;Lactancia (no acumulada);True;0.0;0.0;0.0;0.0;;2.0;Indice_absentismo01_01_2025-31_12_2025 (14).pdf
+Consejería de Cultura, Turismo, Jóvenes y Deportes;;01/01/2025 AL 31/12/2025;512;causa;Matrimonio o pareja de hecho;True;7.0;72.0;0.14;0.66;;2.0;Indice_absentismo01_01_2025-31_12_2025 (14).pdf
+Consejería de Cultura, Turismo, Jóvenes y Deportes;;01/01/2025 AL 31/12/2025;512;causa;"Nacimiento de hijos o hijas prematuros u hospitalizados a
+continuación del parto";True;0.0;0.0;0.0;0.0;;2.0;Indice_absentismo01_01_2025-31_12_2025 (14).pdf
+Consejería de Cultura, Turismo, Jóvenes y Deportes;;01/01/2025 AL 31/12/2025;512;causa;Nacimiento para la madre biológica;True;4.0;208.0;0.41;1.91;;2.0;Indice_absentismo01_01_2025-31_12_2025 (14).pdf
+Consejería de Cultura, Turismo, Jóvenes y Deportes;;01/01/2025 AL 31/12/2025;512;causa;Otras ausencias no contempladas;True;748.0;481.0;0.94;4.41;;2.0;Indice_absentismo01_01_2025-31_12_2025 (14).pdf
+Consejería de Cultura, Turismo, Jóvenes y Deportes;;01/01/2025 AL 31/12/2025;512;causa;"Permiso parental para el cuidado de hijo, hija o menor acogido por
+tiempo superior a un año, hasta que el menor cumpla 8 años";True;0.0;0.0;0.0;0.0;;2.0;Indice_absentismo01_01_2025-31_12_2025 (14).pdf
+Consejería de Cultura, Turismo, Jóvenes y Deportes;;01/01/2025 AL 31/12/2025;512;causa;Por razón de violencia de género sobre la mujer trabajadora;True;0.0;0.0;0.0;0.0;;2.0;Indice_absentismo01_01_2025-31_12_2025 (14).pdf
+Consejería de Cultura, Turismo, Jóvenes y Deportes;;01/01/2025 AL 31/12/2025;512;causa;Práctica voluntaria de interrupción del embarazo;True;0.0;0.0;0.0;0.0;;2.0;Indice_absentismo01_01_2025-31_12_2025 (14).pdf
+Consejería de Cultura, Turismo, Jóvenes y Deportes;;01/01/2025 AL 31/12/2025;512;causa;"Progenitor diferente a la madre biológica por nacimiento, guarda con
+fines de adopción, acogimiento o adopción";True;1.0;33.0;0.06;0.3;;2.0;Indice_absentismo01_01_2025-31_12_2025 (14).pdf
+Consejería de Cultura, Turismo, Jóvenes y Deportes;;01/01/2025 AL 31/12/2025;512;causa;Realizar funciones sindicales o de representación de personal;True;92.0;533.0;1.04;4.88;;3.0;Indice_absentismo01_01_2025-31_12_2025 (14).pdf
+Consejería de Cultura, Turismo, Jóvenes y Deportes;;01/01/2025 AL 31/12/2025;512;causa;Salidas por motivos de trabajo;False;589.0;599.0;1.17;5.49;;3.0;Indice_absentismo01_01_2025-31_12_2025 (14).pdf
+Consejería de Cultura, Turismo, Jóvenes y Deportes;;01/01/2025 AL 31/12/2025;512;causa;Someterse a técnicas de fecundación o reproducción asistida;True;0.0;0.0;0.0;0.0;;3.0;Indice_absentismo01_01_2025-31_12_2025 (14).pdf
+Consejería de Cultura, Turismo, Jóvenes y Deportes;;01/01/2025 AL 31/12/2025;512;causa;Traslado de domicilio;True;11.0;10.0;0.02;0.09;;3.0;Indice_absentismo01_01_2025-31_12_2025 (14).pdf
+Consejería de Cultura, Turismo, Jóvenes y Deportes;;01/01/2025 AL 31/12/2025;512;causa;Vacaciones 2023;False;2.0;50.0;0.1;0.46;;3.0;Indice_absentismo01_01_2025-31_12_2025 (14).pdf
+Consejería de Cultura, Turismo, Jóvenes y Deportes;;01/01/2025 AL 31/12/2025;512;causa;Vacaciones 2024;False;320.0;1057.0;2.06;9.68;;3.0;Indice_absentismo01_01_2025-31_12_2025 (14).pdf
+Consejería de Cultura, Turismo, Jóvenes y Deportes;;01/01/2025 AL 31/12/2025;512;causa;Vacaciones 2025;False;1405.0;8314.0;16.24;76.15;;3.0;Indice_absentismo01_01_2025-31_12_2025 (14).pdf
+Consejería de Cultura, Turismo, Jóvenes y Deportes;;01/01/2025 AL 31/12/2025;512;causa;Asistencia a cursos de perfeccionamiento profesional no retribuido;True;8.0;7.0;0.01;0.06;;3.0;Indice_absentismo01_01_2025-31_12_2025 (14).pdf
+Consejería de Cultura, Turismo, Jóvenes y Deportes;;01/01/2025 AL 31/12/2025;512;causa;"Asistir a cursos de formación de centros oficiales de estudio para
+empleados públicos u organizados en el marco de acuerdos de
+formación continua";False;136.0;338.0;0.66;3.1;;3.0;Indice_absentismo01_01_2025-31_12_2025 (14).pdf
+Consejería de Cultura, Turismo, Jóvenes y Deportes;;01/01/2025 AL 31/12/2025;512;causa;"Asistir a cursos selectivos o realizar períodos de prácticas cuando se
+superen procesos selectivos";True;0.0;0.0;0.0;0.0;;3.0;Indice_absentismo01_01_2025-31_12_2025 (14).pdf
+Consejería de Cultura, Turismo, Jóvenes y Deportes;;01/01/2025 AL 31/12/2025;512;causa;Concurrir a exámenes finales, pruebas definitivas y pruebas selectivas;True;71.0;72.0;0.14;0.66;;3.0;Indice_absentismo01_01_2025-31_12_2025 (14).pdf
+Consejería de Cultura, Turismo, Jóvenes y Deportes;;01/01/2025 AL 31/12/2025;512;causa;"Cursos de perfeccionamiento profesional fuera del ámbito de la
+Administración";True;8.0;15.0;0.03;0.14;;3.0;Indice_absentismo01_01_2025-31_12_2025 (14).pdf
+Consejería de Cultura, Turismo, Jóvenes y Deportes;;01/01/2025 AL 31/12/2025;512;causa;"Realización de estudios sobre materias directamente relacionadas
+con el puesto de trabajo";True;4.0;5.0;0.01;0.05;;3.0;Indice_absentismo01_01_2025-31_12_2025 (14).pdf
+Consejería de Cultura, Turismo, Jóvenes y Deportes;;01/01/2025 AL 31/12/2025;512;causa;TOTAL;False;3235.0;10918.0;21.29;100.0;;3.0;Indice_absentismo01_01_2025-31_12_2025 (14).pdf
+Consejería de Cultura, Turismo, Jóvenes y Deportes;;01/01/2025 AL 31/12/2025;512;resumen;Importancia de las CAUSAS DE SALUD respecto al ABSENTISMO GENERAL;;;;;;76.11;;Indice_absentismo01_01_2025-31_12_2025 (14).pdf
+Consejería de Cultura, Turismo, Jóvenes y Deportes;;01/01/2025 AL 31/12/2025;512;resumen;Índice General de ABSENTISMO;;;;;;8.7;;Indice_absentismo01_01_2025-31_12_2025 (14).pdf
+Consejería de Infraestructuras, Transporte y Vivienda;;01/01/2025 AL 31/12/2025;766;causa;Asistir a consulta médica o asistencia sanitaria de carácter personal;True;1974.0;1952.0;2.55;12.75;;1.0;Indice_absentismo01_01_2025-31_12_2025 (15).pdf
+Consejería de Infraestructuras, Transporte y Vivienda;;01/01/2025 AL 31/12/2025;766;causa;Enfermedad o accidente con incapacidad temporal;True;178.0;8068.0;10.53;52.7;;1.0;Indice_absentismo01_01_2025-31_12_2025 (15).pdf
+Consejería de Infraestructuras, Transporte y Vivienda;;01/01/2025 AL 31/12/2025;766;causa;Enfermedad o accidente sin incapacidad temporal;True;205.0;322.0;0.42;2.1;;1.0;Indice_absentismo01_01_2025-31_12_2025 (15).pdf
+Consejería de Infraestructuras, Transporte y Vivienda;;01/01/2025 AL 31/12/2025;766;causa;"Accidente o enfermedad grave, hospitalización o intervención
+quirúrgica ambulatoria de un familiar";True;469.0;1027.0;1.34;6.71;;1.0;Indice_absentismo01_01_2025-31_12_2025 (15).pdf
+Consejería de Infraestructuras, Transporte y Vivienda;;01/01/2025 AL 31/12/2025;766;causa;Acompañar a familiar a consulta médica o asistencia sanitaria;True;927.0;915.0;1.19;5.98;;1.0;Indice_absentismo01_01_2025-31_12_2025 (15).pdf
+Consejería de Infraestructuras, Transporte y Vivienda;;01/01/2025 AL 31/12/2025;766;causa;"Adopción, guarda con fines de adopción o acogimiento, tanto temporal
+como permanente";True;2.0;37.0;0.05;0.24;;1.0;Indice_absentismo01_01_2025-31_12_2025 (15).pdf
+Consejería de Infraestructuras, Transporte y Vivienda;;01/01/2025 AL 31/12/2025;766;causa;"Asistir a reuniones de coordinación o acompañamiento a hijos o hijas
+con discapacidad";True;4.0;4.0;0.01;0.03;;1.0;Indice_absentismo01_01_2025-31_12_2025 (15).pdf
+Consejería de Infraestructuras, Transporte y Vivienda;;01/01/2025 AL 31/12/2025;766;causa;Asuntos particulares fraccionados;False;0.0;0.0;0.0;0.0;;1.0;Indice_absentismo01_01_2025-31_12_2025 (15).pdf
+Consejería de Infraestructuras, Transporte y Vivienda;;01/01/2025 AL 31/12/2025;766;causa;Asuntos particulares fraccionados del año anterior;False;0.0;0.0;0.0;0.0;;1.0;Indice_absentismo01_01_2025-31_12_2025 (15).pdf
+Consejería de Infraestructuras, Transporte y Vivienda;;01/01/2025 AL 31/12/2025;766;causa;Asuntos Particulares 2024;False;890.0;2178.0;2.84;14.23;;1.0;Indice_absentismo01_01_2025-31_12_2025 (15).pdf
+Consejería de Infraestructuras, Transporte y Vivienda;;01/01/2025 AL 31/12/2025;766;causa;Asuntos Particulares 2025;False;3218.0;5152.0;6.73;33.65;;1.0;Indice_absentismo01_01_2025-31_12_2025 (15).pdf
+Consejería de Infraestructuras, Transporte y Vivienda;;01/01/2025 AL 31/12/2025;766;causa;Asuntos propios sin retribución;True;2.0;19.0;0.02;0.12;;1.0;Indice_absentismo01_01_2025-31_12_2025 (15).pdf
+Consejería de Infraestructuras, Transporte y Vivienda;;01/01/2025 AL 31/12/2025;766;causa;Ausencia no justificable por permiso.;False;0.0;0.0;0.0;0.0;;1.0;Indice_absentismo01_01_2025-31_12_2025 (15).pdf
+Consejería de Infraestructuras, Transporte y Vivienda;;01/01/2025 AL 31/12/2025;766;causa;Ausencia por emergencia familiar;True;10.0;10.0;0.01;0.07;;1.0;Indice_absentismo01_01_2025-31_12_2025 (15).pdf
+Consejería de Infraestructuras, Transporte y Vivienda;;01/01/2025 AL 31/12/2025;766;causa;"Colaboración en Programas de Cooperación y Ayuda Humanitaria, y
+en Programas y Proyectos de Ayuda y Cooperación al Desarrollo";True;0.0;0.0;0.0;0.0;;1.0;Indice_absentismo01_01_2025-31_12_2025 (15).pdf
+Consejería de Infraestructuras, Transporte y Vivienda;;01/01/2025 AL 31/12/2025;766;causa;Comisión de servicios;False;1566.0;1611.0;2.1;10.52;;2.0;Indice_absentismo01_01_2025-31_12_2025 (15).pdf
+Consejería de Infraestructuras, Transporte y Vivienda;;01/01/2025 AL 31/12/2025;766;causa;Compensación horaria por servicios extraordinarios;False;0.0;0.0;0.0;0.0;;2.0;Indice_absentismo01_01_2025-31_12_2025 (15).pdf
+Consejería de Infraestructuras, Transporte y Vivienda;;01/01/2025 AL 31/12/2025;766;causa;"Cuidado de hijo o hija menor afectado por cáncer u otra enfermedad
+grave";True;1.0;102.0;0.13;0.67;;2.0;Indice_absentismo01_01_2025-31_12_2025 (15).pdf
+Consejería de Infraestructuras, Transporte y Vivienda;;01/01/2025 AL 31/12/2025;766;causa;"Cuidado de un familiar de primer grado, cónyuge o pareja de hecho
+por enfermedad muy grave";True;13.0;28.0;0.04;0.18;;2.0;Indice_absentismo01_01_2025-31_12_2025 (15).pdf
+Consejería de Infraestructuras, Transporte y Vivienda;;01/01/2025 AL 31/12/2025;766;causa;"Cumplir un deber inexcusable y deberes relacionados con la vida
+familiar y laboral";True;194.0;198.0;0.26;1.29;;2.0;Indice_absentismo01_01_2025-31_12_2025 (15).pdf
+Consejería de Infraestructuras, Transporte y Vivienda;;01/01/2025 AL 31/12/2025;766;causa;"Desplazamiento previo en los casos de adopción o acogimiento
+internacional";True;0.0;0.0;0.0;0.0;;2.0;Indice_absentismo01_01_2025-31_12_2025 (15).pdf
+Consejería de Infraestructuras, Transporte y Vivienda;;01/01/2025 AL 31/12/2025;766;causa;"Exámenes prenatales, técnicas de preparación al parto y sesiones e
+informes en los casos de adopción, guarda con fines de adopción o
+acogimiento";True;2.0;2.0;0.0;0.01;;2.0;Indice_absentismo01_01_2025-31_12_2025 (15).pdf
+Consejería de Infraestructuras, Transporte y Vivienda;;01/01/2025 AL 31/12/2025;766;causa;Fallecimiento de un familiar;True;82.0;198.0;0.26;1.29;;2.0;Indice_absentismo01_01_2025-31_12_2025 (15).pdf
+Consejería de Infraestructuras, Transporte y Vivienda;;01/01/2025 AL 31/12/2025;766;causa;Horas de Compensación 2024;False;3.0;3.0;0.0;0.02;;2.0;Indice_absentismo01_01_2025-31_12_2025 (15).pdf
+Consejería de Infraestructuras, Transporte y Vivienda;;01/01/2025 AL 31/12/2025;766;causa;Horas de Compensación 2025;False;72.0;74.0;0.1;0.48;;2.0;Indice_absentismo01_01_2025-31_12_2025 (15).pdf
+Consejería de Infraestructuras, Transporte y Vivienda;;01/01/2025 AL 31/12/2025;766;causa;Huelga legal;True;15.0;15.0;0.02;0.1;;2.0;Indice_absentismo01_01_2025-31_12_2025 (15).pdf
+Consejería de Infraestructuras, Transporte y Vivienda;;01/01/2025 AL 31/12/2025;766;causa;Lactancia acumulada;True;8.0;158.0;0.21;1.03;;2.0;Indice_absentismo01_01_2025-31_12_2025 (15).pdf
+Consejería de Infraestructuras, Transporte y Vivienda;;01/01/2025 AL 31/12/2025;766;causa;Lactancia (no acumulada);True;1.0;20.0;0.03;0.13;;2.0;Indice_absentismo01_01_2025-31_12_2025 (15).pdf
+Consejería de Infraestructuras, Transporte y Vivienda;;01/01/2025 AL 31/12/2025;766;causa;Matrimonio o pareja de hecho;True;10.0;101.0;0.13;0.66;;2.0;Indice_absentismo01_01_2025-31_12_2025 (15).pdf
+Consejería de Infraestructuras, Transporte y Vivienda;;01/01/2025 AL 31/12/2025;766;causa;"Nacimiento de hijos o hijas prematuros u hospitalizados a
+continuación del parto";True;2.0;104.0;0.14;0.68;;2.0;Indice_absentismo01_01_2025-31_12_2025 (15).pdf
+Consejería de Infraestructuras, Transporte y Vivienda;;01/01/2025 AL 31/12/2025;766;causa;Nacimiento para la madre biológica;True;4.0;139.0;0.18;0.91;;2.0;Indice_absentismo01_01_2025-31_12_2025 (15).pdf
+Consejería de Infraestructuras, Transporte y Vivienda;;01/01/2025 AL 31/12/2025;766;causa;Otras ausencias no contempladas;True;332.0;271.0;0.35;1.77;;2.0;Indice_absentismo01_01_2025-31_12_2025 (15).pdf
+Consejería de Infraestructuras, Transporte y Vivienda;;01/01/2025 AL 31/12/2025;766;causa;"Permiso parental para el cuidado de hijo, hija o menor acogido por
+tiempo superior a un año, hasta que el menor cumpla 8 años";True;0.0;0.0;0.0;0.0;;2.0;Indice_absentismo01_01_2025-31_12_2025 (15).pdf
+Consejería de Infraestructuras, Transporte y Vivienda;;01/01/2025 AL 31/12/2025;766;causa;Por razón de violencia de género sobre la mujer trabajadora;True;0.0;0.0;0.0;0.0;;2.0;Indice_absentismo01_01_2025-31_12_2025 (15).pdf
+Consejería de Infraestructuras, Transporte y Vivienda;;01/01/2025 AL 31/12/2025;766;causa;Práctica voluntaria de interrupción del embarazo;True;0.0;0.0;0.0;0.0;;2.0;Indice_absentismo01_01_2025-31_12_2025 (15).pdf
+Consejería de Infraestructuras, Transporte y Vivienda;;01/01/2025 AL 31/12/2025;766;causa;"Progenitor diferente a la madre biológica por nacimiento, guarda con
+fines de adopción, acogimiento o adopción";True;13.0;463.0;0.6;3.02;;2.0;Indice_absentismo01_01_2025-31_12_2025 (15).pdf
+Consejería de Infraestructuras, Transporte y Vivienda;;01/01/2025 AL 31/12/2025;766;causa;Realizar funciones sindicales o de representación de personal;True;32.0;772.0;1.01;5.04;;3.0;Indice_absentismo01_01_2025-31_12_2025 (15).pdf
+Consejería de Infraestructuras, Transporte y Vivienda;;01/01/2025 AL 31/12/2025;766;causa;Salidas por motivos de trabajo;False;1581.0;1569.0;2.05;10.25;;3.0;Indice_absentismo01_01_2025-31_12_2025 (15).pdf
+Consejería de Infraestructuras, Transporte y Vivienda;;01/01/2025 AL 31/12/2025;766;causa;Someterse a técnicas de fecundación o reproducción asistida;True;2.0;2.0;0.0;0.01;;3.0;Indice_absentismo01_01_2025-31_12_2025 (15).pdf
+Consejería de Infraestructuras, Transporte y Vivienda;;01/01/2025 AL 31/12/2025;766;causa;Traslado de domicilio;True;26.0;37.0;0.05;0.24;;3.0;Indice_absentismo01_01_2025-31_12_2025 (15).pdf
+Consejería de Infraestructuras, Transporte y Vivienda;;01/01/2025 AL 31/12/2025;766;causa;Vacaciones 2023;False;4.0;56.0;0.07;0.37;;3.0;Indice_absentismo01_01_2025-31_12_2025 (15).pdf
+Consejería de Infraestructuras, Transporte y Vivienda;;01/01/2025 AL 31/12/2025;766;causa;Vacaciones 2024;False;422.0;2051.0;2.68;13.4;;3.0;Indice_absentismo01_01_2025-31_12_2025 (15).pdf
+Consejería de Infraestructuras, Transporte y Vivienda;;01/01/2025 AL 31/12/2025;766;causa;Vacaciones 2025;False;2117.0;14158.0;18.48;92.48;;3.0;Indice_absentismo01_01_2025-31_12_2025 (15).pdf
+Consejería de Infraestructuras, Transporte y Vivienda;;01/01/2025 AL 31/12/2025;766;causa;Asistencia a cursos de perfeccionamiento profesional no retribuido;True;1.0;2.0;0.0;0.01;;3.0;Indice_absentismo01_01_2025-31_12_2025 (15).pdf
+Consejería de Infraestructuras, Transporte y Vivienda;;01/01/2025 AL 31/12/2025;766;causa;"Asistir a cursos de formación de centros oficiales de estudio para
+empleados públicos u organizados en el marco de acuerdos de
+formación continua";False;396.0;1033.0;1.35;6.75;;3.0;Indice_absentismo01_01_2025-31_12_2025 (15).pdf
+Consejería de Infraestructuras, Transporte y Vivienda;;01/01/2025 AL 31/12/2025;766;causa;"Asistir a cursos selectivos o realizar períodos de prácticas cuando se
+superen procesos selectivos";True;3.0;148.0;0.19;0.97;;3.0;Indice_absentismo01_01_2025-31_12_2025 (15).pdf
+Consejería de Infraestructuras, Transporte y Vivienda;;01/01/2025 AL 31/12/2025;766;causa;Concurrir a exámenes finales, pruebas definitivas y pruebas selectivas;True;140.0;140.0;0.18;0.91;;3.0;Indice_absentismo01_01_2025-31_12_2025 (15).pdf
+Consejería de Infraestructuras, Transporte y Vivienda;;01/01/2025 AL 31/12/2025;766;causa;"Cursos de perfeccionamiento profesional fuera del ámbito de la
+Administración";True;34.0;56.0;0.07;0.37;;3.0;Indice_absentismo01_01_2025-31_12_2025 (15).pdf
+Consejería de Infraestructuras, Transporte y Vivienda;;01/01/2025 AL 31/12/2025;766;causa;"Realización de estudios sobre materias directamente relacionadas
+con el puesto de trabajo";True;0.0;0.0;0.0;0.0;;3.0;Indice_absentismo01_01_2025-31_12_2025 (15).pdf
+Consejería de Infraestructuras, Transporte y Vivienda;;01/01/2025 AL 31/12/2025;766;causa;TOTAL;False;4686.0;15310.0;19.97;100.0;;3.0;Indice_absentismo01_01_2025-31_12_2025 (15).pdf
+Consejería de Infraestructuras, Transporte y Vivienda;;01/01/2025 AL 31/12/2025;766;resumen;Importancia de las CAUSAS DE SALUD respecto al ABSENTISMO GENERAL;;;;;;67.55;;Indice_absentismo01_01_2025-31_12_2025 (15).pdf
+Consejería de Infraestructuras, Transporte y Vivienda;;01/01/2025 AL 31/12/2025;766;resumen;Índice General de ABSENTISMO;;;;;;8.16;;Indice_absentismo01_01_2025-31_12_2025 (15).pdf
+Consejería de Educación, Ciencia y Formación Profesional;;01/01/2025 AL 31/12/2025;495;causa;Asistir a consulta médica o asistencia sanitaria de carácter personal;True;921.0;898.0;1.81;16.59;;1.0;Indice_absentismo01_01_2025-31_12_2025 (16).pdf
+Consejería de Educación, Ciencia y Formación Profesional;;01/01/2025 AL 31/12/2025;495;causa;Enfermedad o accidente con incapacidad temporal;True;115.0;2184.0;4.41;40.35;;1.0;Indice_absentismo01_01_2025-31_12_2025 (16).pdf
+Consejería de Educación, Ciencia y Formación Profesional;;01/01/2025 AL 31/12/2025;495;causa;Enfermedad o accidente sin incapacidad temporal;True;156.0;259.0;0.52;4.78;;1.0;Indice_absentismo01_01_2025-31_12_2025 (16).pdf
+Consejería de Educación, Ciencia y Formación Profesional;;01/01/2025 AL 31/12/2025;495;causa;"Accidente o enfermedad grave, hospitalización o intervención
+quirúrgica ambulatoria de un familiar";True;260.0;569.0;1.15;10.51;;1.0;Indice_absentismo01_01_2025-31_12_2025 (16).pdf
+Consejería de Educación, Ciencia y Formación Profesional;;01/01/2025 AL 31/12/2025;495;causa;Acompañar a familiar a consulta médica o asistencia sanitaria;True;385.0;378.0;0.76;6.98;;1.0;Indice_absentismo01_01_2025-31_12_2025 (16).pdf
+Consejería de Educación, Ciencia y Formación Profesional;;01/01/2025 AL 31/12/2025;495;causa;"Adopción, guarda con fines de adopción o acogimiento, tanto temporal
+como permanente";True;0.0;0.0;0.0;0.0;;1.0;Indice_absentismo01_01_2025-31_12_2025 (16).pdf
+Consejería de Educación, Ciencia y Formación Profesional;;01/01/2025 AL 31/12/2025;495;causa;"Asistir a reuniones de coordinación o acompañamiento a hijos o hijas
+con discapacidad";True;5.0;5.0;0.01;0.09;;1.0;Indice_absentismo01_01_2025-31_12_2025 (16).pdf
+Consejería de Educación, Ciencia y Formación Profesional;;01/01/2025 AL 31/12/2025;495;causa;Asuntos particulares fraccionados;False;0.0;0.0;0.0;0.0;;1.0;Indice_absentismo01_01_2025-31_12_2025 (16).pdf
+Consejería de Educación, Ciencia y Formación Profesional;;01/01/2025 AL 31/12/2025;495;causa;Asuntos particulares fraccionados del año anterior;False;0.0;0.0;0.0;0.0;;1.0;Indice_absentismo01_01_2025-31_12_2025 (16).pdf
+Consejería de Educación, Ciencia y Formación Profesional;;01/01/2025 AL 31/12/2025;495;causa;Asuntos Particulares 2024;False;683.0;1541.0;3.11;28.47;;1.0;Indice_absentismo01_01_2025-31_12_2025 (16).pdf
+Consejería de Educación, Ciencia y Formación Profesional;;01/01/2025 AL 31/12/2025;495;causa;Asuntos Particulares 2025;False;2146.0;3232.0;6.53;59.71;;1.0;Indice_absentismo01_01_2025-31_12_2025 (16).pdf
+Consejería de Educación, Ciencia y Formación Profesional;;01/01/2025 AL 31/12/2025;495;causa;Asuntos propios sin retribución;True;3.0;30.0;0.06;0.55;;1.0;Indice_absentismo01_01_2025-31_12_2025 (16).pdf
+Consejería de Educación, Ciencia y Formación Profesional;;01/01/2025 AL 31/12/2025;495;causa;Ausencia no justificable por permiso.;False;0.0;0.0;0.0;0.0;;1.0;Indice_absentismo01_01_2025-31_12_2025 (16).pdf
+Consejería de Educación, Ciencia y Formación Profesional;;01/01/2025 AL 31/12/2025;495;causa;Ausencia por emergencia familiar;True;6.0;5.0;0.01;0.09;;1.0;Indice_absentismo01_01_2025-31_12_2025 (16).pdf
+Consejería de Educación, Ciencia y Formación Profesional;;01/01/2025 AL 31/12/2025;495;causa;"Colaboración en Programas de Cooperación y Ayuda Humanitaria, y
+en Programas y Proyectos de Ayuda y Cooperación al Desarrollo";True;0.0;0.0;0.0;0.0;;1.0;Indice_absentismo01_01_2025-31_12_2025 (16).pdf
+Consejería de Educación, Ciencia y Formación Profesional;;01/01/2025 AL 31/12/2025;495;causa;Comisión de servicios;False;1053.0;1039.0;2.1;19.19;;2.0;Indice_absentismo01_01_2025-31_12_2025 (16).pdf
+Consejería de Educación, Ciencia y Formación Profesional;;01/01/2025 AL 31/12/2025;495;causa;Compensación horaria por servicios extraordinarios;False;0.0;0.0;0.0;0.0;;2.0;Indice_absentismo01_01_2025-31_12_2025 (16).pdf
+Consejería de Educación, Ciencia y Formación Profesional;;01/01/2025 AL 31/12/2025;495;causa;"Cuidado de hijo o hija menor afectado por cáncer u otra enfermedad
+grave";True;0.0;0.0;0.0;0.0;;2.0;Indice_absentismo01_01_2025-31_12_2025 (16).pdf
+Consejería de Educación, Ciencia y Formación Profesional;;01/01/2025 AL 31/12/2025;495;causa;"Cuidado de un familiar de primer grado, cónyuge o pareja de hecho
+por enfermedad muy grave";True;5.0;11.0;0.02;0.2;;2.0;Indice_absentismo01_01_2025-31_12_2025 (16).pdf
+Consejería de Educación, Ciencia y Formación Profesional;;01/01/2025 AL 31/12/2025;495;causa;"Cumplir un deber inexcusable y deberes relacionados con la vida
+familiar y laboral";True;35.0;31.0;0.06;0.57;;2.0;Indice_absentismo01_01_2025-31_12_2025 (16).pdf
+Consejería de Educación, Ciencia y Formación Profesional;;01/01/2025 AL 31/12/2025;495;causa;"Desplazamiento previo en los casos de adopción o acogimiento
+internacional";True;0.0;0.0;0.0;0.0;;2.0;Indice_absentismo01_01_2025-31_12_2025 (16).pdf
+Consejería de Educación, Ciencia y Formación Profesional;;01/01/2025 AL 31/12/2025;495;causa;"Exámenes prenatales, técnicas de preparación al parto y sesiones e
+informes en los casos de adopción, guarda con fines de adopción o
+acogimiento";True;0.0;0.0;0.0;0.0;;2.0;Indice_absentismo01_01_2025-31_12_2025 (16).pdf
+Consejería de Educación, Ciencia y Formación Profesional;;01/01/2025 AL 31/12/2025;495;causa;Fallecimiento de un familiar;True;49.0;136.0;0.27;2.51;;2.0;Indice_absentismo01_01_2025-31_12_2025 (16).pdf
+Consejería de Educación, Ciencia y Formación Profesional;;01/01/2025 AL 31/12/2025;495;causa;Horas de Compensación 2024;False;2.0;4.0;0.01;0.07;;2.0;Indice_absentismo01_01_2025-31_12_2025 (16).pdf
+Consejería de Educación, Ciencia y Formación Profesional;;01/01/2025 AL 31/12/2025;495;causa;Horas de Compensación 2025;False;60.0;98.0;0.2;1.81;;2.0;Indice_absentismo01_01_2025-31_12_2025 (16).pdf
+Consejería de Educación, Ciencia y Formación Profesional;;01/01/2025 AL 31/12/2025;495;causa;Huelga legal;True;8.0;8.0;0.02;0.15;;2.0;Indice_absentismo01_01_2025-31_12_2025 (16).pdf
+Consejería de Educación, Ciencia y Formación Profesional;;01/01/2025 AL 31/12/2025;495;causa;Lactancia acumulada;True;3.0;58.0;0.12;1.07;;2.0;Indice_absentismo01_01_2025-31_12_2025 (16).pdf
+Consejería de Educación, Ciencia y Formación Profesional;;01/01/2025 AL 31/12/2025;495;causa;Lactancia (no acumulada);True;0.0;0.0;0.0;0.0;;2.0;Indice_absentismo01_01_2025-31_12_2025 (16).pdf
+Consejería de Educación, Ciencia y Formación Profesional;;01/01/2025 AL 31/12/2025;495;causa;Matrimonio o pareja de hecho;True;0.0;0.0;0.0;0.0;;2.0;Indice_absentismo01_01_2025-31_12_2025 (16).pdf
+Consejería de Educación, Ciencia y Formación Profesional;;01/01/2025 AL 31/12/2025;495;causa;"Nacimiento de hijos o hijas prematuros u hospitalizados a
+continuación del parto";True;0.0;0.0;0.0;0.0;;2.0;Indice_absentismo01_01_2025-31_12_2025 (16).pdf
+Consejería de Educación, Ciencia y Formación Profesional;;01/01/2025 AL 31/12/2025;495;causa;Nacimiento para la madre biológica;True;3.0;107.0;0.22;1.98;;2.0;Indice_absentismo01_01_2025-31_12_2025 (16).pdf
+Consejería de Educación, Ciencia y Formación Profesional;;01/01/2025 AL 31/12/2025;495;causa;Otras ausencias no contempladas;True;271.0;312.0;0.63;5.76;;2.0;Indice_absentismo01_01_2025-31_12_2025 (16).pdf
+Consejería de Educación, Ciencia y Formación Profesional;;01/01/2025 AL 31/12/2025;495;causa;"Permiso parental para el cuidado de hijo, hija o menor acogido por
+tiempo superior a un año, hasta que el menor cumpla 8 años";True;0.0;0.0;0.0;0.0;;2.0;Indice_absentismo01_01_2025-31_12_2025 (16).pdf
+Consejería de Educación, Ciencia y Formación Profesional;;01/01/2025 AL 31/12/2025;495;causa;Por razón de violencia de género sobre la mujer trabajadora;True;0.0;0.0;0.0;0.0;;2.0;Indice_absentismo01_01_2025-31_12_2025 (16).pdf
+Consejería de Educación, Ciencia y Formación Profesional;;01/01/2025 AL 31/12/2025;495;causa;Práctica voluntaria de interrupción del embarazo;True;0.0;0.0;0.0;0.0;;2.0;Indice_absentismo01_01_2025-31_12_2025 (16).pdf
+Consejería de Educación, Ciencia y Formación Profesional;;01/01/2025 AL 31/12/2025;495;causa;"Progenitor diferente a la madre biológica por nacimiento, guarda con
+fines de adopción, acogimiento o adopción";True;3.0;119.0;0.24;2.2;;2.0;Indice_absentismo01_01_2025-31_12_2025 (16).pdf
+Consejería de Educación, Ciencia y Formación Profesional;;01/01/2025 AL 31/12/2025;495;causa;Realizar funciones sindicales o de representación de personal;True;1.0;247.0;0.5;4.56;;3.0;Indice_absentismo01_01_2025-31_12_2025 (16).pdf
+Consejería de Educación, Ciencia y Formación Profesional;;01/01/2025 AL 31/12/2025;495;causa;Salidas por motivos de trabajo;False;422.0;295.0;0.6;5.45;;3.0;Indice_absentismo01_01_2025-31_12_2025 (16).pdf
+Consejería de Educación, Ciencia y Formación Profesional;;01/01/2025 AL 31/12/2025;495;causa;Someterse a técnicas de fecundación o reproducción asistida;True;0.0;0.0;0.0;0.0;;3.0;Indice_absentismo01_01_2025-31_12_2025 (16).pdf
+Consejería de Educación, Ciencia y Formación Profesional;;01/01/2025 AL 31/12/2025;495;causa;Traslado de domicilio;True;8.0;8.0;0.02;0.15;;3.0;Indice_absentismo01_01_2025-31_12_2025 (16).pdf
+Consejería de Educación, Ciencia y Formación Profesional;;01/01/2025 AL 31/12/2025;495;causa;Vacaciones 2024;False;330.0;1207.0;2.44;22.3;;3.0;Indice_absentismo01_01_2025-31_12_2025 (16).pdf
+Consejería de Educación, Ciencia y Formación Profesional;;01/01/2025 AL 31/12/2025;495;causa;Vacaciones 2025;False;1309.0;8937.0;18.05;165.1;;3.0;Indice_absentismo01_01_2025-31_12_2025 (16).pdf
+Consejería de Educación, Ciencia y Formación Profesional;;01/01/2025 AL 31/12/2025;495;causa;Asistencia a cursos de perfeccionamiento profesional no retribuido;True;2.0;1.0;0.0;0.02;;3.0;Indice_absentismo01_01_2025-31_12_2025 (16).pdf
+Consejería de Educación, Ciencia y Formación Profesional;;01/01/2025 AL 31/12/2025;495;causa;"Asistir a cursos de formación de centros oficiales de estudio para
+empleados públicos u organizados en el marco de acuerdos de
+formación continua";False;197.0;456.0;0.92;8.42;;3.0;Indice_absentismo01_01_2025-31_12_2025 (16).pdf
+Consejería de Educación, Ciencia y Formación Profesional;;01/01/2025 AL 31/12/2025;495;causa;"Asistir a cursos selectivos o realizar períodos de prácticas cuando se
+superen procesos selectivos";True;0.0;0.0;0.0;0.0;;3.0;Indice_absentismo01_01_2025-31_12_2025 (16).pdf
+Consejería de Educación, Ciencia y Formación Profesional;;01/01/2025 AL 31/12/2025;495;causa;Concurrir a exámenes finales, pruebas definitivas y pruebas selectivas;True;27.0;27.0;0.05;0.5;;3.0;Indice_absentismo01_01_2025-31_12_2025 (16).pdf
+Consejería de Educación, Ciencia y Formación Profesional;;01/01/2025 AL 31/12/2025;495;causa;"Cursos de perfeccionamiento profesional fuera del ámbito de la
+Administración";True;9.0;10.0;0.02;0.18;;3.0;Indice_absentismo01_01_2025-31_12_2025 (16).pdf
+Consejería de Educación, Ciencia y Formación Profesional;;01/01/2025 AL 31/12/2025;495;causa;"Realización de estudios sobre materias directamente relacionadas
+con el puesto de trabajo";True;9.0;10.0;0.02;0.18;;3.0;Indice_absentismo01_01_2025-31_12_2025 (16).pdf
+Consejería de Educación, Ciencia y Formación Profesional;;01/01/2025 AL 31/12/2025;495;causa;TOTAL;False;2284.0;5413.0;10.92;100.0;;3.0;Indice_absentismo01_01_2025-31_12_2025 (16).pdf
+Consejería de Educación, Ciencia y Formación Profesional;;01/01/2025 AL 31/12/2025;495;resumen;Importancia de las CAUSAS DE SALUD respecto al ABSENTISMO GENERAL;;;;;;61.72;;Indice_absentismo01_01_2025-31_12_2025 (16).pdf
+Consejería de Educación, Ciencia y Formación Profesional;;01/01/2025 AL 31/12/2025;495;resumen;Índice General de ABSENTISMO;;;;;;4.46;;Indice_absentismo01_01_2025-31_12_2025 (16).pdf
+Consejería de Gestión Forestal y Mundo Rural;;01/01/2025 AL 31/12/2025;688;causa;Asistir a consulta médica o asistencia sanitaria de carácter personal;True;1187.0;1178.0;1.71;7.29;;1.0;Indice_absentismo01_01_2025-31_12_2025 (17).pdf
+Consejería de Gestión Forestal y Mundo Rural;;01/01/2025 AL 31/12/2025;688;causa;Enfermedad o accidente con incapacidad temporal;True;153.0;9402.0;13.67;58.18;;1.0;Indice_absentismo01_01_2025-31_12_2025 (17).pdf
+Consejería de Gestión Forestal y Mundo Rural;;01/01/2025 AL 31/12/2025;688;causa;Enfermedad o accidente sin incapacidad temporal;True;96.0;167.0;0.24;1.03;;1.0;Indice_absentismo01_01_2025-31_12_2025 (17).pdf
+Consejería de Gestión Forestal y Mundo Rural;;01/01/2025 AL 31/12/2025;688;causa;"Accidente o enfermedad grave, hospitalización o intervención
+quirúrgica ambulatoria de un familiar";True;317.0;743.0;1.08;4.6;;1.0;Indice_absentismo01_01_2025-31_12_2025 (17).pdf
+Consejería de Gestión Forestal y Mundo Rural;;01/01/2025 AL 31/12/2025;688;causa;Acompañar a familiar a consulta médica o asistencia sanitaria;True;408.0;431.0;0.63;2.67;;1.0;Indice_absentismo01_01_2025-31_12_2025 (17).pdf
+Consejería de Gestión Forestal y Mundo Rural;;01/01/2025 AL 31/12/2025;688;causa;"Adopción, guarda con fines de adopción o acogimiento, tanto temporal
+como permanente";True;0.0;0.0;0.0;0.0;;1.0;Indice_absentismo01_01_2025-31_12_2025 (17).pdf
+Consejería de Gestión Forestal y Mundo Rural;;01/01/2025 AL 31/12/2025;688;causa;"Asistir a reuniones de coordinación o acompañamiento a hijos o hijas
+con discapacidad";True;3.0;3.0;0.0;0.02;;1.0;Indice_absentismo01_01_2025-31_12_2025 (17).pdf
+Consejería de Gestión Forestal y Mundo Rural;;01/01/2025 AL 31/12/2025;688;causa;Asuntos particulares fraccionados;False;0.0;0.0;0.0;0.0;;1.0;Indice_absentismo01_01_2025-31_12_2025 (17).pdf
+Consejería de Gestión Forestal y Mundo Rural;;01/01/2025 AL 31/12/2025;688;causa;Asuntos particulares fraccionados del año anterior;False;0.0;0.0;0.0;0.0;;1.0;Indice_absentismo01_01_2025-31_12_2025 (17).pdf
+Consejería de Gestión Forestal y Mundo Rural;;01/01/2025 AL 31/12/2025;688;causa;Asuntos Particulares 2024;False;834.0;1769.0;2.57;10.95;;1.0;Indice_absentismo01_01_2025-31_12_2025 (17).pdf
+Consejería de Gestión Forestal y Mundo Rural;;01/01/2025 AL 31/12/2025;688;causa;Asuntos Particulares 2025;False;3160.0;4600.0;6.69;28.47;;1.0;Indice_absentismo01_01_2025-31_12_2025 (17).pdf
+Consejería de Gestión Forestal y Mundo Rural;;01/01/2025 AL 31/12/2025;688;causa;Asuntos propios sin retribución;True;19.0;297.0;0.43;1.84;;1.0;Indice_absentismo01_01_2025-31_12_2025 (17).pdf
+Consejería de Gestión Forestal y Mundo Rural;;01/01/2025 AL 31/12/2025;688;causa;Ausencia no justificable por permiso.;False;0.0;0.0;0.0;0.0;;1.0;Indice_absentismo01_01_2025-31_12_2025 (17).pdf
+Consejería de Gestión Forestal y Mundo Rural;;01/01/2025 AL 31/12/2025;688;causa;Ausencia por emergencia familiar;True;3.0;3.0;0.0;0.02;;1.0;Indice_absentismo01_01_2025-31_12_2025 (17).pdf
+Consejería de Gestión Forestal y Mundo Rural;;01/01/2025 AL 31/12/2025;688;causa;"Colaboración en Programas de Cooperación y Ayuda Humanitaria, y
+en Programas y Proyectos de Ayuda y Cooperación al Desarrollo";True;0.0;0.0;0.0;0.0;;1.0;Indice_absentismo01_01_2025-31_12_2025 (17).pdf
+Consejería de Gestión Forestal y Mundo Rural;;01/01/2025 AL 31/12/2025;688;causa;Comisión de servicios;False;1441.0;1464.0;2.13;9.06;;2.0;Indice_absentismo01_01_2025-31_12_2025 (17).pdf
+Consejería de Gestión Forestal y Mundo Rural;;01/01/2025 AL 31/12/2025;688;causa;Compensación horaria por servicios extraordinarios;False;0.0;0.0;0.0;0.0;;2.0;Indice_absentismo01_01_2025-31_12_2025 (17).pdf
+Consejería de Gestión Forestal y Mundo Rural;;01/01/2025 AL 31/12/2025;688;causa;"Cuidado de hijo o hija menor afectado por cáncer u otra enfermedad
+grave";True;0.0;0.0;0.0;0.0;;2.0;Indice_absentismo01_01_2025-31_12_2025 (17).pdf
+Consejería de Gestión Forestal y Mundo Rural;;01/01/2025 AL 31/12/2025;688;causa;"Cuidado de un familiar de primer grado, cónyuge o pareja de hecho
+por enfermedad muy grave";True;7.0;68.0;0.1;0.42;;2.0;Indice_absentismo01_01_2025-31_12_2025 (17).pdf
+Consejería de Gestión Forestal y Mundo Rural;;01/01/2025 AL 31/12/2025;688;causa;"Cumplir un deber inexcusable y deberes relacionados con la vida
+familiar y laboral";True;95.0;91.0;0.13;0.56;;2.0;Indice_absentismo01_01_2025-31_12_2025 (17).pdf
+Consejería de Gestión Forestal y Mundo Rural;;01/01/2025 AL 31/12/2025;688;causa;"Desplazamiento previo en los casos de adopción o acogimiento
+internacional";True;0.0;0.0;0.0;0.0;;2.0;Indice_absentismo01_01_2025-31_12_2025 (17).pdf
+Consejería de Gestión Forestal y Mundo Rural;;01/01/2025 AL 31/12/2025;688;causa;"Exámenes prenatales, técnicas de preparación al parto y sesiones e
+informes en los casos de adopción, guarda con fines de adopción o
+acogimiento";True;10.0;10.0;0.01;0.06;;2.0;Indice_absentismo01_01_2025-31_12_2025 (17).pdf
+Consejería de Gestión Forestal y Mundo Rural;;01/01/2025 AL 31/12/2025;688;causa;Fallecimiento de un familiar;True;78.0;206.0;0.3;1.27;;2.0;Indice_absentismo01_01_2025-31_12_2025 (17).pdf
+Consejería de Gestión Forestal y Mundo Rural;;01/01/2025 AL 31/12/2025;688;causa;Horas de Compensación 2024;False;56.0;104.0;0.15;0.64;;2.0;Indice_absentismo01_01_2025-31_12_2025 (17).pdf
+Consejería de Gestión Forestal y Mundo Rural;;01/01/2025 AL 31/12/2025;688;causa;Horas de Compensación 2025;False;364.0;471.0;0.68;2.91;;2.0;Indice_absentismo01_01_2025-31_12_2025 (17).pdf
+Consejería de Gestión Forestal y Mundo Rural;;01/01/2025 AL 31/12/2025;688;causa;Huelga legal;True;10.0;10.0;0.01;0.06;;2.0;Indice_absentismo01_01_2025-31_12_2025 (17).pdf
+Consejería de Gestión Forestal y Mundo Rural;;01/01/2025 AL 31/12/2025;688;causa;Lactancia acumulada;True;11.0;249.0;0.36;1.54;;2.0;Indice_absentismo01_01_2025-31_12_2025 (17).pdf
+Consejería de Gestión Forestal y Mundo Rural;;01/01/2025 AL 31/12/2025;688;causa;Lactancia (no acumulada);True;0.0;0.0;0.0;0.0;;2.0;Indice_absentismo01_01_2025-31_12_2025 (17).pdf
+Consejería de Gestión Forestal y Mundo Rural;;01/01/2025 AL 31/12/2025;688;causa;Matrimonio o pareja de hecho;True;6.0;80.0;0.12;0.5;;2.0;Indice_absentismo01_01_2025-31_12_2025 (17).pdf
+Consejería de Gestión Forestal y Mundo Rural;;01/01/2025 AL 31/12/2025;688;causa;"Nacimiento de hijos o hijas prematuros u hospitalizados a
+continuación del parto";True;0.0;0.0;0.0;0.0;;2.0;Indice_absentismo01_01_2025-31_12_2025 (17).pdf
+Consejería de Gestión Forestal y Mundo Rural;;01/01/2025 AL 31/12/2025;688;causa;Nacimiento para la madre biológica;True;10.0;258.0;0.38;1.6;;2.0;Indice_absentismo01_01_2025-31_12_2025 (17).pdf
+Consejería de Gestión Forestal y Mundo Rural;;01/01/2025 AL 31/12/2025;688;causa;Otras ausencias no contempladas;True;235.0;736.0;1.07;4.55;;2.0;Indice_absentismo01_01_2025-31_12_2025 (17).pdf
+Consejería de Gestión Forestal y Mundo Rural;;01/01/2025 AL 31/12/2025;688;causa;"Permiso parental para el cuidado de hijo, hija o menor acogido por
+tiempo superior a un año, hasta que el menor cumpla 8 años";True;1.0;28.0;0.04;0.17;;2.0;Indice_absentismo01_01_2025-31_12_2025 (17).pdf
+Consejería de Gestión Forestal y Mundo Rural;;01/01/2025 AL 31/12/2025;688;causa;Por razón de violencia de género sobre la mujer trabajadora;True;0.0;0.0;0.0;0.0;;2.0;Indice_absentismo01_01_2025-31_12_2025 (17).pdf
+Consejería de Gestión Forestal y Mundo Rural;;01/01/2025 AL 31/12/2025;688;causa;Práctica voluntaria de interrupción del embarazo;True;0.0;0.0;0.0;0.0;;2.0;Indice_absentismo01_01_2025-31_12_2025 (17).pdf
+Consejería de Gestión Forestal y Mundo Rural;;01/01/2025 AL 31/12/2025;688;causa;"Progenitor diferente a la madre biológica por nacimiento, guarda con
+fines de adopción, acogimiento o adopción";True;12.0;746.0;1.08;4.62;;2.0;Indice_absentismo01_01_2025-31_12_2025 (17).pdf
+Consejería de Gestión Forestal y Mundo Rural;;01/01/2025 AL 31/12/2025;688;causa;Realizar funciones sindicales o de representación de personal;True;113.0;1273.0;1.85;7.88;;3.0;Indice_absentismo01_01_2025-31_12_2025 (17).pdf
+Consejería de Gestión Forestal y Mundo Rural;;01/01/2025 AL 31/12/2025;688;causa;Salidas por motivos de trabajo;False;2395.0;2230.0;3.24;13.8;;3.0;Indice_absentismo01_01_2025-31_12_2025 (17).pdf
+Consejería de Gestión Forestal y Mundo Rural;;01/01/2025 AL 31/12/2025;688;causa;Someterse a técnicas de fecundación o reproducción asistida;True;2.0;1.0;0.0;0.01;;3.0;Indice_absentismo01_01_2025-31_12_2025 (17).pdf
+Consejería de Gestión Forestal y Mundo Rural;;01/01/2025 AL 31/12/2025;688;causa;Traslado de domicilio;True;10.0;10.0;0.01;0.06;;3.0;Indice_absentismo01_01_2025-31_12_2025 (17).pdf
+Consejería de Gestión Forestal y Mundo Rural;;01/01/2025 AL 31/12/2025;688;causa;Vacaciones 2023;False;3.0;5.0;0.01;0.03;;3.0;Indice_absentismo01_01_2025-31_12_2025 (17).pdf
+Consejería de Gestión Forestal y Mundo Rural;;01/01/2025 AL 31/12/2025;688;causa;Vacaciones 2024;False;579.0;2049.0;2.98;12.68;;3.0;Indice_absentismo01_01_2025-31_12_2025 (17).pdf
+Consejería de Gestión Forestal y Mundo Rural;;01/01/2025 AL 31/12/2025;688;causa;Vacaciones 2025;False;2746.0;11826.0;17.19;73.18;;3.0;Indice_absentismo01_01_2025-31_12_2025 (17).pdf
+Consejería de Gestión Forestal y Mundo Rural;;01/01/2025 AL 31/12/2025;688;causa;Asistencia a cursos de perfeccionamiento profesional no retribuido;True;4.0;4.0;0.01;0.02;;3.0;Indice_absentismo01_01_2025-31_12_2025 (17).pdf
+Consejería de Gestión Forestal y Mundo Rural;;01/01/2025 AL 31/12/2025;688;causa;"Asistir a cursos de formación de centros oficiales de estudio para
+empleados públicos u organizados en el marco de acuerdos de
+formación continua";False;685.0;1374.0;2.0;8.5;;3.0;Indice_absentismo01_01_2025-31_12_2025 (17).pdf
+Consejería de Gestión Forestal y Mundo Rural;;01/01/2025 AL 31/12/2025;688;causa;"Asistir a cursos selectivos o realizar períodos de prácticas cuando se
+superen procesos selectivos";True;1.0;4.0;0.01;0.02;;3.0;Indice_absentismo01_01_2025-31_12_2025 (17).pdf
+Consejería de Gestión Forestal y Mundo Rural;;01/01/2025 AL 31/12/2025;688;causa;Concurrir a exámenes finales, pruebas definitivas y pruebas selectivas;True;113.0;119.0;0.17;0.74;;3.0;Indice_absentismo01_01_2025-31_12_2025 (17).pdf
+Consejería de Gestión Forestal y Mundo Rural;;01/01/2025 AL 31/12/2025;688;causa;"Cursos de perfeccionamiento profesional fuera del ámbito de la
+Administración";True;35.0;41.0;0.06;0.25;;3.0;Indice_absentismo01_01_2025-31_12_2025 (17).pdf
+Consejería de Gestión Forestal y Mundo Rural;;01/01/2025 AL 31/12/2025;688;causa;"Realización de estudios sobre materias directamente relacionadas
+con el puesto de trabajo";True;1.0;2.0;0.0;0.01;;3.0;Indice_absentismo01_01_2025-31_12_2025 (17).pdf
+Consejería de Gestión Forestal y Mundo Rural;;01/01/2025 AL 31/12/2025;688;causa;TOTAL;False;2940.0;16160.0;23.47;100.0;;3.0;Indice_absentismo01_01_2025-31_12_2025 (17).pdf
+Consejería de Gestión Forestal y Mundo Rural;;01/01/2025 AL 31/12/2025;688;resumen;Importancia de las CAUSAS DE SALUD respecto al ABSENTISMO GENERAL;;;;;;66.5;;Indice_absentismo01_01_2025-31_12_2025 (17).pdf
+Consejería de Gestión Forestal y Mundo Rural;;01/01/2025 AL 31/12/2025;688;resumen;Índice General de ABSENTISMO;;;;;;9.59;;Indice_absentismo01_01_2025-31_12_2025 (17).pdf
+Consejería de Presidencia, Interior y Diálogo Social;;01/01/2025 AL 31/12/2025;358;causa;Asistir a consulta médica o asistencia sanitaria de carácter personal;True;477.0;448.0;1.25;20.98;;1.0;Indice_absentismo01_01_2025-31_12_2025 (18).pdf
+Consejería de Presidencia, Interior y Diálogo Social;;01/01/2025 AL 31/12/2025;358;causa;Enfermedad o accidente con incapacidad temporal;True;19.0;470.0;1.31;22.01;;1.0;Indice_absentismo01_01_2025-31_12_2025 (18).pdf
+Consejería de Presidencia, Interior y Diálogo Social;;01/01/2025 AL 31/12/2025;358;causa;Enfermedad o accidente sin incapacidad temporal;True;68.0;237.0;0.66;11.1;;1.0;Indice_absentismo01_01_2025-31_12_2025 (18).pdf
+Consejería de Presidencia, Interior y Diálogo Social;;01/01/2025 AL 31/12/2025;358;causa;"Accidente o enfermedad grave, hospitalización o intervención
+quirúrgica ambulatoria de un familiar";True;150.0;263.0;0.73;12.32;;1.0;Indice_absentismo01_01_2025-31_12_2025 (18).pdf
+Consejería de Presidencia, Interior y Diálogo Social;;01/01/2025 AL 31/12/2025;358;causa;Acompañar a familiar a consulta médica o asistencia sanitaria;True;209.0;198.0;0.55;9.27;;1.0;Indice_absentismo01_01_2025-31_12_2025 (18).pdf
+Consejería de Presidencia, Interior y Diálogo Social;;01/01/2025 AL 31/12/2025;358;causa;"Adopción, guarda con fines de adopción o acogimiento, tanto temporal
+como permanente";True;0.0;0.0;0.0;0.0;;1.0;Indice_absentismo01_01_2025-31_12_2025 (18).pdf
+Consejería de Presidencia, Interior y Diálogo Social;;01/01/2025 AL 31/12/2025;358;causa;"Asistir a reuniones de coordinación o acompañamiento a hijos o hijas
+con discapacidad";True;0.0;0.0;0.0;0.0;;1.0;Indice_absentismo01_01_2025-31_12_2025 (18).pdf
+Consejería de Presidencia, Interior y Diálogo Social;;01/01/2025 AL 31/12/2025;358;causa;Asuntos particulares fraccionados;False;0.0;0.0;0.0;0.0;;1.0;Indice_absentismo01_01_2025-31_12_2025 (18).pdf
+Consejería de Presidencia, Interior y Diálogo Social;;01/01/2025 AL 31/12/2025;358;causa;Asuntos particulares fraccionados del año anterior;False;0.0;0.0;0.0;0.0;;1.0;Indice_absentismo01_01_2025-31_12_2025 (18).pdf
+Consejería de Presidencia, Interior y Diálogo Social;;01/01/2025 AL 31/12/2025;358;causa;Asuntos Particulares 2024;False;315.0;716.0;2.0;33.54;;1.0;Indice_absentismo01_01_2025-31_12_2025 (18).pdf
+Consejería de Presidencia, Interior y Diálogo Social;;01/01/2025 AL 31/12/2025;358;causa;Asuntos Particulares 2025;False;964.0;1389.0;3.88;65.06;;1.0;Indice_absentismo01_01_2025-31_12_2025 (18).pdf
+Consejería de Presidencia, Interior y Diálogo Social;;01/01/2025 AL 31/12/2025;358;causa;Asuntos propios sin retribución;True;0.0;0.0;0.0;0.0;;1.0;Indice_absentismo01_01_2025-31_12_2025 (18).pdf
+Consejería de Presidencia, Interior y Diálogo Social;;01/01/2025 AL 31/12/2025;358;causa;Ausencia no justificable por permiso.;False;0.0;0.0;0.0;0.0;;1.0;Indice_absentismo01_01_2025-31_12_2025 (18).pdf
+Consejería de Presidencia, Interior y Diálogo Social;;01/01/2025 AL 31/12/2025;358;causa;Ausencia por emergencia familiar;True;0.0;0.0;0.0;0.0;;1.0;Indice_absentismo01_01_2025-31_12_2025 (18).pdf
+Consejería de Presidencia, Interior y Diálogo Social;;01/01/2025 AL 31/12/2025;358;causa;"Colaboración en Programas de Cooperación y Ayuda Humanitaria, y
+en Programas y Proyectos de Ayuda y Cooperación al Desarrollo";True;0.0;0.0;0.0;0.0;;1.0;Indice_absentismo01_01_2025-31_12_2025 (18).pdf
+Consejería de Presidencia, Interior y Diálogo Social;;01/01/2025 AL 31/12/2025;358;causa;Comisión de servicios;False;140.0;160.0;0.45;7.49;;2.0;Indice_absentismo01_01_2025-31_12_2025 (18).pdf
+Consejería de Presidencia, Interior y Diálogo Social;;01/01/2025 AL 31/12/2025;358;causa;Compensación horaria por servicios extraordinarios;False;0.0;0.0;0.0;0.0;;2.0;Indice_absentismo01_01_2025-31_12_2025 (18).pdf
+Consejería de Presidencia, Interior y Diálogo Social;;01/01/2025 AL 31/12/2025;358;causa;"Cuidado de hijo o hija menor afectado por cáncer u otra enfermedad
+grave";True;0.0;0.0;0.0;0.0;;2.0;Indice_absentismo01_01_2025-31_12_2025 (18).pdf
+Consejería de Presidencia, Interior y Diálogo Social;;01/01/2025 AL 31/12/2025;358;causa;"Cuidado de un familiar de primer grado, cónyuge o pareja de hecho
+por enfermedad muy grave";True;0.0;0.0;0.0;0.0;;2.0;Indice_absentismo01_01_2025-31_12_2025 (18).pdf
+Consejería de Presidencia, Interior y Diálogo Social;;01/01/2025 AL 31/12/2025;358;causa;"Cumplir un deber inexcusable y deberes relacionados con la vida
+familiar y laboral";True;15.0;15.0;0.04;0.7;;2.0;Indice_absentismo01_01_2025-31_12_2025 (18).pdf
+Consejería de Presidencia, Interior y Diálogo Social;;01/01/2025 AL 31/12/2025;358;causa;"Desplazamiento previo en los casos de adopción o acogimiento
+internacional";True;0.0;0.0;0.0;0.0;;2.0;Indice_absentismo01_01_2025-31_12_2025 (18).pdf
+Consejería de Presidencia, Interior y Diálogo Social;;01/01/2025 AL 31/12/2025;358;causa;"Exámenes prenatales, técnicas de preparación al parto y sesiones e
+informes en los casos de adopción, guarda con fines de adopción o
+acogimiento";True;0.0;0.0;0.0;0.0;;2.0;Indice_absentismo01_01_2025-31_12_2025 (18).pdf
+Consejería de Presidencia, Interior y Diálogo Social;;01/01/2025 AL 31/12/2025;358;causa;Fallecimiento de un familiar;True;27.0;64.0;0.18;3.0;;2.0;Indice_absentismo01_01_2025-31_12_2025 (18).pdf
+Consejería de Presidencia, Interior y Diálogo Social;;01/01/2025 AL 31/12/2025;358;causa;Horas de Compensación 2024;False;7.0;7.0;0.02;0.33;;2.0;Indice_absentismo01_01_2025-31_12_2025 (18).pdf
+Consejería de Presidencia, Interior y Diálogo Social;;01/01/2025 AL 31/12/2025;358;causa;Horas de Compensación 2025;False;72.0;119.0;0.33;5.57;;2.0;Indice_absentismo01_01_2025-31_12_2025 (18).pdf
+Consejería de Presidencia, Interior y Diálogo Social;;01/01/2025 AL 31/12/2025;358;causa;Huelga legal;True;1.0;1.0;0.0;0.05;;2.0;Indice_absentismo01_01_2025-31_12_2025 (18).pdf
+Consejería de Presidencia, Interior y Diálogo Social;;01/01/2025 AL 31/12/2025;358;causa;Lactancia acumulada;True;0.0;0.0;0.0;0.0;;2.0;Indice_absentismo01_01_2025-31_12_2025 (18).pdf
+Consejería de Presidencia, Interior y Diálogo Social;;01/01/2025 AL 31/12/2025;358;causa;Lactancia (no acumulada);True;0.0;0.0;0.0;0.0;;2.0;Indice_absentismo01_01_2025-31_12_2025 (18).pdf
+Consejería de Presidencia, Interior y Diálogo Social;;01/01/2025 AL 31/12/2025;358;causa;Matrimonio o pareja de hecho;True;1.0;2.0;0.01;0.09;;2.0;Indice_absentismo01_01_2025-31_12_2025 (18).pdf
+Consejería de Presidencia, Interior y Diálogo Social;;01/01/2025 AL 31/12/2025;358;causa;"Nacimiento de hijos o hijas prematuros u hospitalizados a
+continuación del parto";True;0.0;0.0;0.0;0.0;;2.0;Indice_absentismo01_01_2025-31_12_2025 (18).pdf
+Consejería de Presidencia, Interior y Diálogo Social;;01/01/2025 AL 31/12/2025;358;causa;Nacimiento para la madre biológica;True;0.0;0.0;0.0;0.0;;2.0;Indice_absentismo01_01_2025-31_12_2025 (18).pdf
+Consejería de Presidencia, Interior y Diálogo Social;;01/01/2025 AL 31/12/2025;358;causa;Otras ausencias no contempladas;True;64.0;221.0;0.62;10.35;;2.0;Indice_absentismo01_01_2025-31_12_2025 (18).pdf
+Consejería de Presidencia, Interior y Diálogo Social;;01/01/2025 AL 31/12/2025;358;causa;"Permiso parental para el cuidado de hijo, hija o menor acogido por
+tiempo superior a un año, hasta que el menor cumpla 8 años";True;0.0;0.0;0.0;0.0;;2.0;Indice_absentismo01_01_2025-31_12_2025 (18).pdf
+Consejería de Presidencia, Interior y Diálogo Social;;01/01/2025 AL 31/12/2025;358;causa;Por razón de violencia de género sobre la mujer trabajadora;True;0.0;0.0;0.0;0.0;;2.0;Indice_absentismo01_01_2025-31_12_2025 (18).pdf
+Consejería de Presidencia, Interior y Diálogo Social;;01/01/2025 AL 31/12/2025;358;causa;Práctica voluntaria de interrupción del embarazo;True;0.0;0.0;0.0;0.0;;2.0;Indice_absentismo01_01_2025-31_12_2025 (18).pdf
+Consejería de Presidencia, Interior y Diálogo Social;;01/01/2025 AL 31/12/2025;358;causa;"Progenitor diferente a la madre biológica por nacimiento, guarda con
+fines de adopción, acogimiento o adopción";True;0.0;0.0;0.0;0.0;;2.0;Indice_absentismo01_01_2025-31_12_2025 (18).pdf
+Consejería de Presidencia, Interior y Diálogo Social;;01/01/2025 AL 31/12/2025;358;causa;Realizar funciones sindicales o de representación de personal;True;32.0;131.0;0.37;6.14;;3.0;Indice_absentismo01_01_2025-31_12_2025 (18).pdf
+Consejería de Presidencia, Interior y Diálogo Social;;01/01/2025 AL 31/12/2025;358;causa;Salidas por motivos de trabajo;False;170.0;166.0;0.46;7.78;;3.0;Indice_absentismo01_01_2025-31_12_2025 (18).pdf
+Consejería de Presidencia, Interior y Diálogo Social;;01/01/2025 AL 31/12/2025;358;causa;Someterse a técnicas de fecundación o reproducción asistida;True;2.0;2.0;0.01;0.09;;3.0;Indice_absentismo01_01_2025-31_12_2025 (18).pdf
+Consejería de Presidencia, Interior y Diálogo Social;;01/01/2025 AL 31/12/2025;358;causa;Traslado de domicilio;True;8.0;7.0;0.02;0.33;;3.0;Indice_absentismo01_01_2025-31_12_2025 (18).pdf
+Consejería de Presidencia, Interior y Diálogo Social;;01/01/2025 AL 31/12/2025;358;causa;Vacaciones 2024;False;134.0;480.0;1.34;22.48;;3.0;Indice_absentismo01_01_2025-31_12_2025 (18).pdf
+Consejería de Presidencia, Interior y Diálogo Social;;01/01/2025 AL 31/12/2025;358;causa;Vacaciones 2025;False;654.0;4020.0;11.23;188.29;;3.0;Indice_absentismo01_01_2025-31_12_2025 (18).pdf
+Consejería de Presidencia, Interior y Diálogo Social;;01/01/2025 AL 31/12/2025;358;causa;Asistencia a cursos de perfeccionamiento profesional no retribuido;True;2.0;2.0;0.01;0.09;;3.0;Indice_absentismo01_01_2025-31_12_2025 (18).pdf
+Consejería de Presidencia, Interior y Diálogo Social;;01/01/2025 AL 31/12/2025;358;causa;"Asistir a cursos de formación de centros oficiales de estudio para
+empleados públicos u organizados en el marco de acuerdos de
+formación continua";False;106.0;177.0;0.49;8.29;;3.0;Indice_absentismo01_01_2025-31_12_2025 (18).pdf
+Consejería de Presidencia, Interior y Diálogo Social;;01/01/2025 AL 31/12/2025;358;causa;"Asistir a cursos selectivos o realizar períodos de prácticas cuando se
+superen procesos selectivos";True;0.0;0.0;0.0;0.0;;3.0;Indice_absentismo01_01_2025-31_12_2025 (18).pdf
+Consejería de Presidencia, Interior y Diálogo Social;;01/01/2025 AL 31/12/2025;358;causa;Concurrir a exámenes finales, pruebas definitivas y pruebas selectivas;True;76.0;64.0;0.18;3.0;;3.0;Indice_absentismo01_01_2025-31_12_2025 (18).pdf
+Consejería de Presidencia, Interior y Diálogo Social;;01/01/2025 AL 31/12/2025;358;causa;"Cursos de perfeccionamiento profesional fuera del ámbito de la
+Administración";True;6.0;7.0;0.02;0.33;;3.0;Indice_absentismo01_01_2025-31_12_2025 (18).pdf
+Consejería de Presidencia, Interior y Diálogo Social;;01/01/2025 AL 31/12/2025;358;causa;"Realización de estudios sobre materias directamente relacionadas
+con el puesto de trabajo";True;1.0;3.0;0.01;0.14;;3.0;Indice_absentismo01_01_2025-31_12_2025 (18).pdf
+Consejería de Presidencia, Interior y Diálogo Social;;01/01/2025 AL 31/12/2025;358;causa;TOTAL;False;1158.0;2135.0;5.97;100.0;;3.0;Indice_absentismo01_01_2025-31_12_2025 (18).pdf
+Consejería de Presidencia, Interior y Diálogo Social;;01/01/2025 AL 31/12/2025;358;resumen;Importancia de las CAUSAS DE SALUD respecto al ABSENTISMO GENERAL;;;;;;54.09;;Indice_absentismo01_01_2025-31_12_2025 (18).pdf
+Consejería de Presidencia, Interior y Diálogo Social;;01/01/2025 AL 31/12/2025;358;resumen;Índice General de ABSENTISMO;;;;;;2.43;;Indice_absentismo01_01_2025-31_12_2025 (18).pdf
